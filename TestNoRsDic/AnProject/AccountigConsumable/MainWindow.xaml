@@ -1,0 +1,39 @@
+﻿<Window:StyledWindow  xmlns:Window="clr-namespace:WPF_Base_Styling_App.UI.Windows" 
+                      x:Class="AccountigConsumable.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:AccountigConsumable"
+        mc:Ignorable="d"
+        Title="Меню" Height="800" Width="1200">
+    <Window.Resources>
+        <ResourceDictionary>
+            <ResourceDictionary.MergedDictionaries>
+            </ResourceDictionary.MergedDictionaries>
+        </ResourceDictionary>
+    </Window.Resources>
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="200" />
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="80"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <TextBlock Width="160" Height="100">
+    <Hyperlink NavigateUri="https://hitcom.pro/" Foreground="Black" RequestNavigate="Hyperlink_RequestNavigate">
+        <Image Width="160" Height="100" Source="Hitcom_logo.png" Stretch="Uniform"/>
+    </Hyperlink>
+        </TextBlock>
+        <local:ClockUISimpl Grid.Column="1" Width="auto" Height="auto" VerticalAlignment="Center" HorizontalAlignment="Right" Margin="10"></local:ClockUISimpl>
+        <Frame NavigationUIVisibility="Hidden" Grid.Row="1" Grid.Column="1" Margin="5"   x:Name="FrameOfVision"  Grid.ColumnSpan="2"></Frame>
+        <StackPanel Margin="5" x:Name="StckPanelButtons" Orientation="Vertical" Background="#DBDBDB" Grid.Column="0" Grid.Row="1">
+            <local:UIButtonMainPage x:Name="ConsumableBtn" HorizontalAlignment="Center" Header="Расходные материалы" IMageSrc="MainBtnIcons\Consumable.png" ButtonBase.Click="ConsumableBtn_Click"/>
+            <local:UIButtonMainPage x:Name="WorkerBtn" Header="Работники" IMageSrc="MainBtnIcons\86074.png" ButtonBase.Click="WorkerBtn_Click"/>
+            <local:UIButtonMainPage x:Name="OrderBtn" Header="Заказы" IMageSrc="MainBtnIcons\purchase-order.png" ButtonBase.Click="OrderBtn_Click"/>
+            <local:UIButtonMainPage x:Name="RoomBtn" Header="Комнаты" IMageSrc="MainBtnIcons\room.png" ButtonBase.Click="RoomBtn_Click"/>
+        </StackPanel>
+    </Grid>
+</Window:StyledWindow>

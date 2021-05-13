@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="df7de033c12149e2a283eac9cee99eaf" Name="Diagram1">
+        <EntityTypeShape EntityType="AccountingForConsumablesModel.DeliveredMaterial" Width="1.5" PointX="9.75" PointY="4.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="AccountingForConsumablesModel.Delivery" Width="1.5" PointX="7.5" PointY="4.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="AccountingForConsumablesModel.Gender" Width="1.5" PointX="0.75" PointY="8.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="AccountingForConsumablesModel.Inventarization" Width="1.5" PointX="5.25" PointY="8.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="AccountingForConsumablesModel.Manufacturer" Width="1.5" PointX="3" PointY="15.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="AccountingForConsumablesModel.MaterialCard" Width="1.5" PointX="7.5" PointY="18.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="AccountingForConsumablesModel.MaterialGroup" Width="1.5" PointX="3" PointY="17.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="AccountingForConsumablesModel.MaterialInInventarization" Width="1.5" PointX="10.5" PointY="8.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="AccountingForConsumablesModel.Materials" Width="1.5" PointX="5.25" PointY="17.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="AccountingForConsumablesModel.MaterialsInDelivery" Width="1.5" PointX="10.5" PointY="11.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="AccountingForConsumablesModel.OperationHystory" Width="1.5" PointX="5.25" PointY="12" IsExpanded="true" />
+        <EntityTypeShape EntityType="AccountingForConsumablesModel.Order" Width="1.5" PointX="7.5" PointY="1.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="AccountingForConsumablesModel.OrderedMaterial" Width="1.5" PointX="9.75" PointY="1.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="AccountingForConsumablesModel.Position" Width="1.5" PointX="0.75" PointY="5.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="AccountingForConsumablesModel.ReplenishmentOfMaterials" Width="1.5" PointX="8.25" PointY="8.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="AccountingForConsumablesModel.Room" Width="1.5" PointX="3" PointY="2.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="AccountingForConsumablesModel.StatusOfMaterial" Width="1.5" PointX="5.25" PointY="23" IsExpanded="true" />
+        <EntityTypeShape EntityType="AccountingForConsumablesModel.StatusOfWorker" Width="1.5" PointX="0.75" PointY="12.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="AccountingForConsumablesModel.sysdiagrams" Width="1.5" PointX="11.75" PointY="1.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="AccountingForConsumablesModel.TypeOfRoom" Width="1.5" PointX="0.75" PointY="3" IsExpanded="true" />
+        <EntityTypeShape EntityType="AccountingForConsumablesModel.Unit" Width="1.5" PointX="3" PointY="20.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="AccountingForConsumablesModel.Warehouse" Width="1.5" PointX="5.25" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="AccountingForConsumablesModel.Worker" Width="1.5" PointX="3" PointY="7.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="AccountingForConsumablesModel.WorkPlace" Width="1.5" PointX="5.25" PointY="4.5" IsExpanded="true" />
+        <AssociationConnector Association="AccountingForConsumablesModel.FK_DeliveredMaterial_Delivery" ManuallyRouted="false" />
+        <AssociationConnector Association="AccountingForConsumablesModel.FK_DeliveredMaterial_MaterialCard" ManuallyRouted="false" />
+        <AssociationConnector Association="AccountingForConsumablesModel.FK_Delivery_WorkPlace" ManuallyRouted="false" />
+        <AssociationConnector Association="AccountingForConsumablesModel.FK_Worker_Gender" ManuallyRouted="false" />
+        <AssociationConnector Association="AccountingForConsumablesModel.FK_Inventarization_Warehouse" ManuallyRouted="false" />
+        <AssociationConnector Association="AccountingForConsumablesModel.FK_Inventarization_Worker" ManuallyRouted="false" />
+        <AssociationConnector Association="AccountingForConsumablesModel.FK_MaterialInInventarization_Inventarization" ManuallyRouted="false" />
+        <AssociationConnector Association="AccountingForConsumablesModel.FK_Materials_Manufacturer" ManuallyRouted="false" />
+        <AssociationConnector Association="AccountingForConsumablesModel.FK_MaterialCard_Materials" ManuallyRouted="false" />
+        <AssociationConnector Association="AccountingForConsumablesModel.FK_MaterialCard_StatusOfMaterial" ManuallyRouted="false" />
+        <AssociationConnector Association="AccountingForConsumablesModel.FK_MaterialsInDelivery_MaterialCard" ManuallyRouted="false" />
+        <AssociationConnector Association="AccountingForConsumablesModel.FK_OrderedMaterial_MaterialCard" ManuallyRouted="false" />
+        <AssociationConnector Association="AccountingForConsumablesModel.FK_Materials_MaterialGroup" ManuallyRouted="false" />
+        <AssociationConnector Association="AccountingForConsumablesModel.FK_MaterialInInventarization_Materials" ManuallyRouted="false" />
+        <AssociationConnector Association="AccountingForConsumablesModel.FK_Materials_Unit" ManuallyRouted="false" />
+        <AssociationConnector Association="AccountingForConsumablesModel.FK_MaterialsInDelivery_ReplenishmentOfMaterials" ManuallyRouted="false" />
+        <AssociationConnector Association="AccountingForConsumablesModel.FK_OperationHystory_Worker" ManuallyRouted="false" />
+        <AssociationConnector Association="AccountingForConsumablesModel.FK_Order_Warehouse" ManuallyRouted="false" />
+        <AssociationConnector Association="AccountingForConsumablesModel.FK_Order_WorkPlace" ManuallyRouted="false" />
+        <AssociationConnector Association="AccountingForConsumablesModel.FK_OrderedMaterial_Order" ManuallyRouted="false" />
+        <AssociationConnector Association="AccountingForConsumablesModel.FK_Worker_Position" ManuallyRouted="false" />
+        <AssociationConnector Association="AccountingForConsumablesModel.FK_ReplenishmentOfMaterials_Warehouse" ManuallyRouted="false" />
+        <AssociationConnector Association="AccountingForConsumablesModel.FK_ReplenishmentOfMaterials_Worker" ManuallyRouted="false" />
+        <AssociationConnector Association="AccountingForConsumablesModel.FK_Room_TypeOfRoom" ManuallyRouted="false" />
+        <AssociationConnector Association="AccountingForConsumablesModel.FK_WorkPlace_Room" ManuallyRouted="false" />
+        <AssociationConnector Association="AccountingForConsumablesModel.FK_Worker_StatusOfWorker" ManuallyRouted="false" />
+        <AssociationConnector Association="AccountingForConsumablesModel.FK_WorkPlace_Worker" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

@@ -1,0 +1,716 @@
+F:\Users\Andrei\Desktop\Новая папка\LoadForIGR-main\AccountigConsumable\obj\Release\UIThemes\ColorScheme.baml
+F:\Users\Andrei\Desktop\Новая папка\LoadForIGR-main\AccountigConsumable\obj\Release\UIThemes\Elements\SimpleBorder.baml
+F:\Users\Andrei\Desktop\Новая папка\LoadForIGR-main\AccountigConsumable\obj\Release\UIThemes\Elements\SimpleButton.baml
+F:\Users\Andrei\Desktop\Новая папка\LoadForIGR-main\AccountigConsumable\obj\Release\UIThemes\Elements\SimpleCheckBox.baml
+F:\Users\Andrei\Desktop\Новая папка\LoadForIGR-main\AccountigConsumable\obj\Release\UIThemes\Elements\SimpleComboBox.baml
+F:\Users\Andrei\Desktop\Новая папка\LoadForIGR-main\AccountigConsumable\obj\Release\UIThemes\Elements\SimpleComboBoxItem.baml
+F:\Users\Andrei\Desktop\Новая папка\LoadForIGR-main\AccountigConsumable\obj\Release\UIThemes\Elements\SimpleContextMenu.baml
+F:\Users\Andrei\Desktop\Новая папка\LoadForIGR-main\AccountigConsumable\obj\Release\UIThemes\Elements\SimpleDataGrid.baml
+F:\Users\Andrei\Desktop\Новая папка\LoadForIGR-main\AccountigConsumable\obj\Release\UIThemes\Elements\SimpleGroupBox.baml
+F:\Users\Andrei\Desktop\Новая папка\LoadForIGR-main\AccountigConsumable\obj\Release\UIThemes\Elements\SimpleHyperLink.baml
+F:\Users\Andrei\Desktop\Новая папка\LoadForIGR-main\AccountigConsumable\obj\Release\UIThemes\Elements\SimpleLabel.baml
+F:\Users\Andrei\Desktop\Новая папка\LoadForIGR-main\AccountigConsumable\obj\Release\UIThemes\Elements\SimpleListBox.baml
+F:\Users\Andrei\Desktop\Новая папка\LoadForIGR-main\AccountigConsumable\obj\Release\UIThemes\Elements\SimpleListBoxItem.baml
+F:\Users\Andrei\Desktop\Новая папка\LoadForIGR-main\AccountigConsumable\obj\Release\UIThemes\Elements\SimpleListView.baml
+F:\Users\Andrei\Desktop\Новая папка\LoadForIGR-main\AccountigConsumable\obj\Release\UIThemes\Elements\SimpleListViewItem.baml
+F:\Users\Andrei\Desktop\Новая папка\LoadForIGR-main\AccountigConsumable\obj\Release\UIThemes\Elements\SimpleMenu.baml
+F:\Users\Andrei\Desktop\Новая папка\LoadForIGR-main\AccountigConsumable\obj\Release\UIThemes\Elements\SimpleMenuItem.baml
+F:\Users\Andrei\Desktop\Новая папка\LoadForIGR-main\AccountigConsumable\obj\Release\UIThemes\Elements\SimplePasswordBox.baml
+F:\Users\Andrei\Desktop\Новая папка\LoadForIGR-main\AccountigConsumable\obj\Release\UIThemes\Elements\SimpleProgressBar.baml
+F:\Users\Andrei\Desktop\Новая папка\LoadForIGR-main\AccountigConsumable\obj\Release\UIThemes\Elements\SimpleRadioButton.baml
+F:\Users\Andrei\Desktop\Новая папка\LoadForIGR-main\AccountigConsumable\obj\Release\UIThemes\Elements\SimpleRichTextBox.baml
+F:\Users\Andrei\Desktop\Новая папка\LoadForIGR-main\AccountigConsumable\obj\Release\UIThemes\Elements\SimpleScrollViewer.baml
+F:\Users\Andrei\Desktop\Новая папка\LoadForIGR-main\AccountigConsumable\obj\Release\UIThemes\Elements\SimpleSeparator.baml
+F:\Users\Andrei\Desktop\Новая папка\LoadForIGR-main\AccountigConsumable\obj\Release\UIThemes\Elements\SimpleSlider.baml
+F:\Users\Andrei\Desktop\Новая папка\LoadForIGR-main\AccountigConsumable\obj\Release\UIThemes\Elements\SimpleTabControl.baml
+F:\Users\Andrei\Desktop\Новая папка\LoadForIGR-main\AccountigConsumable\obj\Release\UIThemes\Elements\SimpleTabItem.baml
+F:\Users\Andrei\Desktop\Новая папка\LoadForIGR-main\AccountigConsumable\obj\Release\UIThemes\Elements\SimpleTextBlock.baml
+F:\Users\Andrei\Desktop\Новая папка\LoadForIGR-main\AccountigConsumable\obj\Release\UIThemes\Elements\SimpleTextBox.baml
+F:\Users\Andrei\Desktop\Новая папка\LoadForIGR-main\AccountigConsumable\obj\Release\UIThemes\Elements\SimpleToggleButton.baml
+F:\Users\Andrei\Desktop\Новая папка\LoadForIGR-main\AccountigConsumable\obj\Release\UIThemes\Elements\SimpleToolBar.baml
+F:\Users\Andrei\Desktop\Новая папка\LoadForIGR-main\AccountigConsumable\obj\Release\UIThemes\Elements\SimpleToolTip.baml
+F:\Users\Andrei\Desktop\Новая папка\LoadForIGR-main\AccountigConsumable\obj\Release\UIThemes\Elements\SimpleTreeView.baml
+F:\Users\Andrei\Desktop\Новая папка\LoadForIGR-main\AccountigConsumable\obj\Release\UIThemes\Elements\SimpleTreeViewItem.baml
+F:\Users\Andrei\Desktop\Новая папка\LoadForIGR-main\AccountigConsumable\obj\Release\UIThemes\Elements\SimpleUserControl.baml
+F:\Users\Andrei\Desktop\Новая папка\LoadForIGR-main\AccountigConsumable\obj\Release\UIThemes\ThemeSimple.baml
+F:\Users\Andrei\Desktop\Новая папка\LoadForIGR-main\AccountigConsumable\obj\Release\AutherizationPage.g.cs
+F:\Users\Andrei\Desktop\Новая папка\LoadForIGR-main\AccountigConsumable\obj\Release\ClockUI.g.cs
+F:\Users\Andrei\Desktop\Новая папка\LoadForIGR-main\AccountigConsumable\obj\Release\ClockUISimpl.g.cs
+F:\Users\Andrei\Desktop\Новая папка\LoadForIGR-main\AccountigConsumable\obj\Release\ConsumableIssue.g.cs
+F:\Users\Andrei\Desktop\Новая папка\LoadForIGR-main\AccountigConsumable\obj\Release\ConsumablePage.g.cs
+F:\Users\Andrei\Desktop\Новая папка\LoadForIGR-main\AccountigConsumable\obj\Release\ConsumablePageWorkWithData.g.cs
+F:\Users\Andrei\Desktop\Новая папка\LoadForIGR-main\AccountigConsumable\obj\Release\ConsumPageAbout.g.cs
+F:\Users\Andrei\Desktop\Новая папка\LoadForIGR-main\AccountigConsumable\obj\Release\EditOrderInWarehouse.g.cs
+F:\Users\Andrei\Desktop\Новая папка\LoadForIGR-main\AccountigConsumable\obj\Release\EditRoom.g.cs
+F:\Users\Andrei\Desktop\Новая папка\LoadForIGR-main\AccountigConsumable\obj\Release\Inventarizationpage.g.cs
+F:\Users\Andrei\Desktop\Новая папка\LoadForIGR-main\AccountigConsumable\obj\Release\InventarizationPageAbout.g.cs
+F:\Users\Andrei\Desktop\Новая папка\LoadForIGR-main\AccountigConsumable\obj\Release\LogPage.g.cs
+F:\Users\Andrei\Desktop\Новая папка\LoadForIGR-main\AccountigConsumable\obj\Release\LogWindow.g.cs
+F:\Users\Andrei\Desktop\Новая папка\LoadForIGR-main\AccountigConsumable\obj\Release\MainWindow.g.cs
+F:\Users\Andrei\Desktop\Новая папка\LoadForIGR-main\AccountigConsumable\obj\Release\NewInventPAge.g.cs
+F:\Users\Andrei\Desktop\Новая папка\LoadForIGR-main\AccountigConsumable\obj\Release\OperationHistoryPage.g.cs
+F:\Users\Andrei\Desktop\Новая папка\LoadForIGR-main\AccountigConsumable\obj\Release\OrderConsumPage.g.cs
+F:\Users\Andrei\Desktop\Новая папка\LoadForIGR-main\AccountigConsumable\obj\Release\OrderInWarehouse.g.cs
+F:\Users\Andrei\Desktop\Новая папка\LoadForIGR-main\AccountigConsumable\obj\Release\OrderMorePage.g.cs
+F:\Users\Andrei\Desktop\Новая папка\LoadForIGR-main\AccountigConsumable\obj\Release\PasswordWindow.g.cs
+F:\Users\Andrei\Desktop\Новая папка\LoadForIGR-main\AccountigConsumable\obj\Release\NewEquipInInvent.g.cs
+F:\Users\Andrei\Desktop\Новая папка\LoadForIGR-main\AccountigConsumable\obj\Release\RoomPage.g.cs
+F:\Users\Andrei\Desktop\Новая папка\LoadForIGR-main\AccountigConsumable\obj\Release\UIButtonMainPage.g.cs
+F:\Users\Andrei\Desktop\Новая папка\LoadForIGR-main\AccountigConsumable\obj\Release\WorkersS.g.cs
+F:\Users\Andrei\Desktop\Новая папка\LoadForIGR-main\AccountigConsumable\obj\Release\WorkWithInvent.g.cs
+F:\Users\Andrei\Desktop\Новая папка\LoadForIGR-main\AccountigConsumable\obj\Release\WorkWithOrder.g.cs
+F:\Users\Andrei\Desktop\Новая папка\LoadForIGR-main\AccountigConsumable\obj\Release\WorkWithWorkersData.g.cs
+F:\Users\Andrei\Desktop\Новая папка\LoadForIGR-main\AccountigConsumable\obj\Release\App.g.cs
+F:\Users\Andrei\Desktop\Новая папка\LoadForIGR-main\AccountigConsumable\obj\Release\AccountigConsumable_Content.g.cs
+F:\Users\Andrei\Desktop\Новая папка\LoadForIGR-main\AccountigConsumable\obj\Release\GeneratedInternalTypeHelper.g.cs
+F:\Users\Andrei\Desktop\Новая папка\LoadForIGR-main\AccountigConsumable\obj\Release\AccountigConsumable_MarkupCompile.cache
+F:\Users\Andrei\Desktop\Новая папка\LoadForIGR-main\AccountigConsumable\obj\Release\AccountigConsumable_MarkupCompile.lref
+F:\Users\Andrei\Desktop\Новая папка\LoadForIGR-main\AccountigConsumable\bin\Release\AccountigConsumable.exe.config
+F:\Users\Andrei\Desktop\Новая папка\LoadForIGR-main\AccountigConsumable\bin\Release\AccountigConsumable.exe
+F:\Users\Andrei\Desktop\Новая папка\LoadForIGR-main\AccountigConsumable\bin\Release\AccountigConsumable.pdb
+F:\Users\Andrei\Desktop\Новая папка\LoadForIGR-main\AccountigConsumable\bin\Release\CommonWin32.dll
+F:\Users\Andrei\Desktop\Новая папка\LoadForIGR-main\AccountigConsumable\bin\Release\EntityFramework.dll
+F:\Users\Andrei\Desktop\Новая папка\LoadForIGR-main\AccountigConsumable\bin\Release\EntityFramework.SqlServer.dll
+F:\Users\Andrei\Desktop\Новая папка\LoadForIGR-main\AccountigConsumable\bin\Release\RestSharp.dll
+F:\Users\Andrei\Desktop\Новая папка\LoadForIGR-main\AccountigConsumable\bin\Release\CommonWin32.pdb
+F:\Users\Andrei\Desktop\Новая папка\LoadForIGR-main\AccountigConsumable\bin\Release\CommonWin32.xml
+F:\Users\Andrei\Desktop\Новая папка\LoadForIGR-main\AccountigConsumable\bin\Release\EntityFramework.xml
+F:\Users\Andrei\Desktop\Новая папка\LoadForIGR-main\AccountigConsumable\bin\Release\EntityFramework.SqlServer.xml
+F:\Users\Andrei\Desktop\Новая папка\LoadForIGR-main\AccountigConsumable\bin\Release\RestSharp.xml
+F:\Users\Andrei\Desktop\Новая папка\LoadForIGR-main\AccountigConsumable\bin\Release\ru\EntityFramework.resources.dll
+F:\Users\Andrei\Desktop\Новая папка\LoadForIGR-main\AccountigConsumable\bin\Release\ru\EntityFramework.SqlServer.resources.dll
+F:\Users\Andrei\Desktop\Новая папка\LoadForIGR-main\AccountigConsumable\obj\Release\App.baml
+F:\Users\Andrei\Desktop\Новая папка\LoadForIGR-main\AccountigConsumable\obj\Release\AutherizationPage.baml
+F:\Users\Andrei\Desktop\Новая папка\LoadForIGR-main\AccountigConsumable\obj\Release\ClockUI.baml
+F:\Users\Andrei\Desktop\Новая папка\LoadForIGR-main\AccountigConsumable\obj\Release\ClockUISimpl.baml
+F:\Users\Andrei\Desktop\Новая папка\LoadForIGR-main\AccountigConsumable\obj\Release\ConsumableIssue.baml
+F:\Users\Andrei\Desktop\Новая папка\LoadForIGR-main\AccountigConsumable\obj\Release\ConsumablePage.baml
+F:\Users\Andrei\Desktop\Новая папка\LoadForIGR-main\AccountigConsumable\obj\Release\ConsumablePageWorkWithData.baml
+F:\Users\Andrei\Desktop\Новая папка\LoadForIGR-main\AccountigConsumable\obj\Release\ConsumPageAbout.baml
+F:\Users\Andrei\Desktop\Новая папка\LoadForIGR-main\AccountigConsumable\obj\Release\EditOrderInWarehouse.baml
+F:\Users\Andrei\Desktop\Новая папка\LoadForIGR-main\AccountigConsumable\obj\Release\EditRoom.baml
+F:\Users\Andrei\Desktop\Новая папка\LoadForIGR-main\AccountigConsumable\obj\Release\Inventarizationpage.baml
+F:\Users\Andrei\Desktop\Новая папка\LoadForIGR-main\AccountigConsumable\obj\Release\InventarizationPageAbout.baml
+F:\Users\Andrei\Desktop\Новая папка\LoadForIGR-main\AccountigConsumable\obj\Release\LogPage.baml
+F:\Users\Andrei\Desktop\Новая папка\LoadForIGR-main\AccountigConsumable\obj\Release\LogWindow.baml
+F:\Users\Andrei\Desktop\Новая папка\LoadForIGR-main\AccountigConsumable\obj\Release\MainWindow.baml
+F:\Users\Andrei\Desktop\Новая папка\LoadForIGR-main\AccountigConsumable\obj\Release\NewInventPAge.baml
+F:\Users\Andrei\Desktop\Новая папка\LoadForIGR-main\AccountigConsumable\obj\Release\OperationHistoryPage.baml
+F:\Users\Andrei\Desktop\Новая папка\LoadForIGR-main\AccountigConsumable\obj\Release\OrderConsumPage.baml
+F:\Users\Andrei\Desktop\Новая папка\LoadForIGR-main\AccountigConsumable\obj\Release\OrderInWarehouse.baml
+F:\Users\Andrei\Desktop\Новая папка\LoadForIGR-main\AccountigConsumable\obj\Release\OrderMorePage.baml
+F:\Users\Andrei\Desktop\Новая папка\LoadForIGR-main\AccountigConsumable\obj\Release\PasswordWindow.baml
+F:\Users\Andrei\Desktop\Новая папка\LoadForIGR-main\AccountigConsumable\obj\Release\NewEquipInInvent.baml
+F:\Users\Andrei\Desktop\Новая папка\LoadForIGR-main\AccountigConsumable\obj\Release\RoomPage.baml
+F:\Users\Andrei\Desktop\Новая папка\LoadForIGR-main\AccountigConsumable\obj\Release\UIButtonMainPage.baml
+F:\Users\Andrei\Desktop\Новая папка\LoadForIGR-main\AccountigConsumable\obj\Release\UIThemes\Elements\SimpleStyledWindow.baml
+F:\Users\Andrei\Desktop\Новая папка\LoadForIGR-main\AccountigConsumable\obj\Release\WorkersS.baml
+F:\Users\Andrei\Desktop\Новая папка\LoadForIGR-main\AccountigConsumable\obj\Release\WorkWithInvent.baml
+F:\Users\Andrei\Desktop\Новая папка\LoadForIGR-main\AccountigConsumable\obj\Release\WorkWithOrder.baml
+F:\Users\Andrei\Desktop\Новая папка\LoadForIGR-main\AccountigConsumable\obj\Release\WorkWithWorkersData.baml
+F:\Users\Andrei\Desktop\Новая папка\LoadForIGR-main\AccountigConsumable\obj\Release\AccountigConsumable.g.resources
+F:\Users\Andrei\Desktop\Новая папка\LoadForIGR-main\AccountigConsumable\obj\Release\AccountigConsumable.Properties.Resources.resources
+F:\Users\Andrei\Desktop\Новая папка\LoadForIGR-main\AccountigConsumable\obj\Release\AccountigConsumable.csproj.GenerateResource.cache
+F:\Users\Andrei\Desktop\Новая папка\LoadForIGR-main\AccountigConsumable\obj\Release\AccountigConsumable.csproj.CoreCompileInputs.cache
+F:\Users\Andrei\Desktop\Новая папка\LoadForIGR-main\AccountigConsumable\obj\Release\AccountigConsumable.csproj.CopyComplete
+F:\Users\Andrei\Desktop\Новая папка\LoadForIGR-main\AccountigConsumable\obj\Release\AccountigConsumable.exe
+F:\Users\Andrei\Desktop\Новая папка\LoadForIGR-main\AccountigConsumable\obj\Release\AccountigConsumable.pdb
+F:\Users\Andrei\Desktop\Новая папка\LoadForIGR-main\AccountigConsumable\obj\Release\AccountigConsumable.csprojAssemblyReference.cache
+F:\Users\Andrei\Desktop\GlebovProj\LoadForIGR-main\AccountigConsumable\bin\Release\AccountigConsumable.exe.config
+F:\Users\Andrei\Desktop\GlebovProj\LoadForIGR-main\AccountigConsumable\bin\Release\AccountigConsumable.exe
+F:\Users\Andrei\Desktop\GlebovProj\LoadForIGR-main\AccountigConsumable\bin\Release\AccountigConsumable.pdb
+F:\Users\Andrei\Desktop\GlebovProj\LoadForIGR-main\AccountigConsumable\bin\Release\CommonWin32.dll
+F:\Users\Andrei\Desktop\GlebovProj\LoadForIGR-main\AccountigConsumable\bin\Release\EntityFramework.dll
+F:\Users\Andrei\Desktop\GlebovProj\LoadForIGR-main\AccountigConsumable\bin\Release\EntityFramework.SqlServer.dll
+F:\Users\Andrei\Desktop\GlebovProj\LoadForIGR-main\AccountigConsumable\bin\Release\RestSharp.dll
+F:\Users\Andrei\Desktop\GlebovProj\LoadForIGR-main\AccountigConsumable\bin\Release\CommonWin32.pdb
+F:\Users\Andrei\Desktop\GlebovProj\LoadForIGR-main\AccountigConsumable\bin\Release\CommonWin32.xml
+F:\Users\Andrei\Desktop\GlebovProj\LoadForIGR-main\AccountigConsumable\bin\Release\EntityFramework.xml
+F:\Users\Andrei\Desktop\GlebovProj\LoadForIGR-main\AccountigConsumable\bin\Release\EntityFramework.SqlServer.xml
+F:\Users\Andrei\Desktop\GlebovProj\LoadForIGR-main\AccountigConsumable\bin\Release\RestSharp.xml
+F:\Users\Andrei\Desktop\GlebovProj\LoadForIGR-main\AccountigConsumable\bin\Release\ru\EntityFramework.resources.dll
+F:\Users\Andrei\Desktop\GlebovProj\LoadForIGR-main\AccountigConsumable\bin\Release\ru\EntityFramework.SqlServer.resources.dll
+F:\Users\Andrei\Desktop\GlebovProj\LoadForIGR-main\AccountigConsumable\obj\Release\UIThemes\ColorScheme.baml
+F:\Users\Andrei\Desktop\GlebovProj\LoadForIGR-main\AccountigConsumable\obj\Release\UIThemes\Elements\SimpleBorder.baml
+F:\Users\Andrei\Desktop\GlebovProj\LoadForIGR-main\AccountigConsumable\obj\Release\UIThemes\Elements\SimpleButton.baml
+F:\Users\Andrei\Desktop\GlebovProj\LoadForIGR-main\AccountigConsumable\obj\Release\UIThemes\Elements\SimpleCheckBox.baml
+F:\Users\Andrei\Desktop\GlebovProj\LoadForIGR-main\AccountigConsumable\obj\Release\UIThemes\Elements\SimpleComboBox.baml
+F:\Users\Andrei\Desktop\GlebovProj\LoadForIGR-main\AccountigConsumable\obj\Release\UIThemes\Elements\SimpleComboBoxItem.baml
+F:\Users\Andrei\Desktop\GlebovProj\LoadForIGR-main\AccountigConsumable\obj\Release\UIThemes\Elements\SimpleContextMenu.baml
+F:\Users\Andrei\Desktop\GlebovProj\LoadForIGR-main\AccountigConsumable\obj\Release\UIThemes\Elements\SimpleDataGrid.baml
+F:\Users\Andrei\Desktop\GlebovProj\LoadForIGR-main\AccountigConsumable\obj\Release\UIThemes\Elements\SimpleGroupBox.baml
+F:\Users\Andrei\Desktop\GlebovProj\LoadForIGR-main\AccountigConsumable\obj\Release\UIThemes\Elements\SimpleHyperLink.baml
+F:\Users\Andrei\Desktop\GlebovProj\LoadForIGR-main\AccountigConsumable\obj\Release\UIThemes\Elements\SimpleLabel.baml
+F:\Users\Andrei\Desktop\GlebovProj\LoadForIGR-main\AccountigConsumable\obj\Release\UIThemes\Elements\SimpleListBox.baml
+F:\Users\Andrei\Desktop\GlebovProj\LoadForIGR-main\AccountigConsumable\obj\Release\UIThemes\Elements\SimpleListBoxItem.baml
+F:\Users\Andrei\Desktop\GlebovProj\LoadForIGR-main\AccountigConsumable\obj\Release\UIThemes\Elements\SimpleListView.baml
+F:\Users\Andrei\Desktop\GlebovProj\LoadForIGR-main\AccountigConsumable\obj\Release\UIThemes\Elements\SimpleListViewItem.baml
+F:\Users\Andrei\Desktop\GlebovProj\LoadForIGR-main\AccountigConsumable\obj\Release\UIThemes\Elements\SimpleMenu.baml
+F:\Users\Andrei\Desktop\GlebovProj\LoadForIGR-main\AccountigConsumable\obj\Release\UIThemes\Elements\SimpleMenuItem.baml
+F:\Users\Andrei\Desktop\GlebovProj\LoadForIGR-main\AccountigConsumable\obj\Release\UIThemes\Elements\SimplePasswordBox.baml
+F:\Users\Andrei\Desktop\GlebovProj\LoadForIGR-main\AccountigConsumable\obj\Release\UIThemes\Elements\SimpleProgressBar.baml
+F:\Users\Andrei\Desktop\GlebovProj\LoadForIGR-main\AccountigConsumable\obj\Release\UIThemes\Elements\SimpleRadioButton.baml
+F:\Users\Andrei\Desktop\GlebovProj\LoadForIGR-main\AccountigConsumable\obj\Release\UIThemes\Elements\SimpleRichTextBox.baml
+F:\Users\Andrei\Desktop\GlebovProj\LoadForIGR-main\AccountigConsumable\obj\Release\UIThemes\Elements\SimpleScrollViewer.baml
+F:\Users\Andrei\Desktop\GlebovProj\LoadForIGR-main\AccountigConsumable\obj\Release\UIThemes\Elements\SimpleSeparator.baml
+F:\Users\Andrei\Desktop\GlebovProj\LoadForIGR-main\AccountigConsumable\obj\Release\UIThemes\Elements\SimpleSlider.baml
+F:\Users\Andrei\Desktop\GlebovProj\LoadForIGR-main\AccountigConsumable\obj\Release\UIThemes\Elements\SimpleTabControl.baml
+F:\Users\Andrei\Desktop\GlebovProj\LoadForIGR-main\AccountigConsumable\obj\Release\UIThemes\Elements\SimpleTabItem.baml
+F:\Users\Andrei\Desktop\GlebovProj\LoadForIGR-main\AccountigConsumable\obj\Release\UIThemes\Elements\SimpleTextBlock.baml
+F:\Users\Andrei\Desktop\GlebovProj\LoadForIGR-main\AccountigConsumable\obj\Release\UIThemes\Elements\SimpleTextBox.baml
+F:\Users\Andrei\Desktop\GlebovProj\LoadForIGR-main\AccountigConsumable\obj\Release\UIThemes\Elements\SimpleToggleButton.baml
+F:\Users\Andrei\Desktop\GlebovProj\LoadForIGR-main\AccountigConsumable\obj\Release\UIThemes\Elements\SimpleToolBar.baml
+F:\Users\Andrei\Desktop\GlebovProj\LoadForIGR-main\AccountigConsumable\obj\Release\UIThemes\Elements\SimpleToolTip.baml
+F:\Users\Andrei\Desktop\GlebovProj\LoadForIGR-main\AccountigConsumable\obj\Release\UIThemes\Elements\SimpleTreeView.baml
+F:\Users\Andrei\Desktop\GlebovProj\LoadForIGR-main\AccountigConsumable\obj\Release\UIThemes\Elements\SimpleTreeViewItem.baml
+F:\Users\Andrei\Desktop\GlebovProj\LoadForIGR-main\AccountigConsumable\obj\Release\UIThemes\Elements\SimpleUserControl.baml
+F:\Users\Andrei\Desktop\GlebovProj\LoadForIGR-main\AccountigConsumable\obj\Release\UIThemes\ThemeSimple.baml
+F:\Users\Andrei\Desktop\GlebovProj\LoadForIGR-main\AccountigConsumable\obj\Release\AutherizationPage.g.cs
+F:\Users\Andrei\Desktop\GlebovProj\LoadForIGR-main\AccountigConsumable\obj\Release\ClockUI.g.cs
+F:\Users\Andrei\Desktop\GlebovProj\LoadForIGR-main\AccountigConsumable\obj\Release\ClockUISimpl.g.cs
+F:\Users\Andrei\Desktop\GlebovProj\LoadForIGR-main\AccountigConsumable\obj\Release\ConsumableIssue.g.cs
+F:\Users\Andrei\Desktop\GlebovProj\LoadForIGR-main\AccountigConsumable\obj\Release\ConsumablePage.g.cs
+F:\Users\Andrei\Desktop\GlebovProj\LoadForIGR-main\AccountigConsumable\obj\Release\ConsumablePageWorkWithData.g.cs
+F:\Users\Andrei\Desktop\GlebovProj\LoadForIGR-main\AccountigConsumable\obj\Release\ConsumPageAbout.g.cs
+F:\Users\Andrei\Desktop\GlebovProj\LoadForIGR-main\AccountigConsumable\obj\Release\EditOrderInWarehouse.g.cs
+F:\Users\Andrei\Desktop\GlebovProj\LoadForIGR-main\AccountigConsumable\obj\Release\EditRoom.g.cs
+F:\Users\Andrei\Desktop\GlebovProj\LoadForIGR-main\AccountigConsumable\obj\Release\Inventarizationpage.g.cs
+F:\Users\Andrei\Desktop\GlebovProj\LoadForIGR-main\AccountigConsumable\obj\Release\InventarizationPageAbout.g.cs
+F:\Users\Andrei\Desktop\GlebovProj\LoadForIGR-main\AccountigConsumable\obj\Release\LogPage.g.cs
+F:\Users\Andrei\Desktop\GlebovProj\LoadForIGR-main\AccountigConsumable\obj\Release\LogWindow.g.cs
+F:\Users\Andrei\Desktop\GlebovProj\LoadForIGR-main\AccountigConsumable\obj\Release\MainWindow.g.cs
+F:\Users\Andrei\Desktop\GlebovProj\LoadForIGR-main\AccountigConsumable\obj\Release\NewInventPAge.g.cs
+F:\Users\Andrei\Desktop\GlebovProj\LoadForIGR-main\AccountigConsumable\obj\Release\OperationHistoryPage.g.cs
+F:\Users\Andrei\Desktop\GlebovProj\LoadForIGR-main\AccountigConsumable\obj\Release\OrderConsumPage.g.cs
+F:\Users\Andrei\Desktop\GlebovProj\LoadForIGR-main\AccountigConsumable\obj\Release\OrderInWarehouse.g.cs
+F:\Users\Andrei\Desktop\GlebovProj\LoadForIGR-main\AccountigConsumable\obj\Release\OrderMorePage.g.cs
+F:\Users\Andrei\Desktop\GlebovProj\LoadForIGR-main\AccountigConsumable\obj\Release\PasswordWindow.g.cs
+F:\Users\Andrei\Desktop\GlebovProj\LoadForIGR-main\AccountigConsumable\obj\Release\NewEquipInInvent.g.cs
+F:\Users\Andrei\Desktop\GlebovProj\LoadForIGR-main\AccountigConsumable\obj\Release\RoomPage.g.cs
+F:\Users\Andrei\Desktop\GlebovProj\LoadForIGR-main\AccountigConsumable\obj\Release\UIButtonMainPage.g.cs
+F:\Users\Andrei\Desktop\GlebovProj\LoadForIGR-main\AccountigConsumable\obj\Release\WorkersS.g.cs
+F:\Users\Andrei\Desktop\GlebovProj\LoadForIGR-main\AccountigConsumable\obj\Release\WorkWithInvent.g.cs
+F:\Users\Andrei\Desktop\GlebovProj\LoadForIGR-main\AccountigConsumable\obj\Release\WorkWithOrder.g.cs
+F:\Users\Andrei\Desktop\GlebovProj\LoadForIGR-main\AccountigConsumable\obj\Release\WorkWithWorkersData.g.cs
+F:\Users\Andrei\Desktop\GlebovProj\LoadForIGR-main\AccountigConsumable\obj\Release\App.g.cs
+F:\Users\Andrei\Desktop\GlebovProj\LoadForIGR-main\AccountigConsumable\obj\Release\AccountigConsumable_Content.g.cs
+F:\Users\Andrei\Desktop\GlebovProj\LoadForIGR-main\AccountigConsumable\obj\Release\GeneratedInternalTypeHelper.g.cs
+F:\Users\Andrei\Desktop\GlebovProj\LoadForIGR-main\AccountigConsumable\obj\Release\AccountigConsumable_MarkupCompile.cache
+F:\Users\Andrei\Desktop\GlebovProj\LoadForIGR-main\AccountigConsumable\obj\Release\AccountigConsumable_MarkupCompile.lref
+F:\Users\Andrei\Desktop\GlebovProj\LoadForIGR-main\AccountigConsumable\obj\Release\App.baml
+F:\Users\Andrei\Desktop\GlebovProj\LoadForIGR-main\AccountigConsumable\obj\Release\AutherizationPage.baml
+F:\Users\Andrei\Desktop\GlebovProj\LoadForIGR-main\AccountigConsumable\obj\Release\ClockUI.baml
+F:\Users\Andrei\Desktop\GlebovProj\LoadForIGR-main\AccountigConsumable\obj\Release\ClockUISimpl.baml
+F:\Users\Andrei\Desktop\GlebovProj\LoadForIGR-main\AccountigConsumable\obj\Release\ConsumableIssue.baml
+F:\Users\Andrei\Desktop\GlebovProj\LoadForIGR-main\AccountigConsumable\obj\Release\ConsumablePage.baml
+F:\Users\Andrei\Desktop\GlebovProj\LoadForIGR-main\AccountigConsumable\obj\Release\ConsumablePageWorkWithData.baml
+F:\Users\Andrei\Desktop\GlebovProj\LoadForIGR-main\AccountigConsumable\obj\Release\ConsumPageAbout.baml
+F:\Users\Andrei\Desktop\GlebovProj\LoadForIGR-main\AccountigConsumable\obj\Release\EditOrderInWarehouse.baml
+F:\Users\Andrei\Desktop\GlebovProj\LoadForIGR-main\AccountigConsumable\obj\Release\EditRoom.baml
+F:\Users\Andrei\Desktop\GlebovProj\LoadForIGR-main\AccountigConsumable\obj\Release\Inventarizationpage.baml
+F:\Users\Andrei\Desktop\GlebovProj\LoadForIGR-main\AccountigConsumable\obj\Release\InventarizationPageAbout.baml
+F:\Users\Andrei\Desktop\GlebovProj\LoadForIGR-main\AccountigConsumable\obj\Release\LogPage.baml
+F:\Users\Andrei\Desktop\GlebovProj\LoadForIGR-main\AccountigConsumable\obj\Release\LogWindow.baml
+F:\Users\Andrei\Desktop\GlebovProj\LoadForIGR-main\AccountigConsumable\obj\Release\MainWindow.baml
+F:\Users\Andrei\Desktop\GlebovProj\LoadForIGR-main\AccountigConsumable\obj\Release\NewInventPAge.baml
+F:\Users\Andrei\Desktop\GlebovProj\LoadForIGR-main\AccountigConsumable\obj\Release\OperationHistoryPage.baml
+F:\Users\Andrei\Desktop\GlebovProj\LoadForIGR-main\AccountigConsumable\obj\Release\OrderConsumPage.baml
+F:\Users\Andrei\Desktop\GlebovProj\LoadForIGR-main\AccountigConsumable\obj\Release\OrderInWarehouse.baml
+F:\Users\Andrei\Desktop\GlebovProj\LoadForIGR-main\AccountigConsumable\obj\Release\OrderMorePage.baml
+F:\Users\Andrei\Desktop\GlebovProj\LoadForIGR-main\AccountigConsumable\obj\Release\PasswordWindow.baml
+F:\Users\Andrei\Desktop\GlebovProj\LoadForIGR-main\AccountigConsumable\obj\Release\NewEquipInInvent.baml
+F:\Users\Andrei\Desktop\GlebovProj\LoadForIGR-main\AccountigConsumable\obj\Release\RoomPage.baml
+F:\Users\Andrei\Desktop\GlebovProj\LoadForIGR-main\AccountigConsumable\obj\Release\UIButtonMainPage.baml
+F:\Users\Andrei\Desktop\GlebovProj\LoadForIGR-main\AccountigConsumable\obj\Release\UIThemes\Elements\SimpleStyledWindow.baml
+F:\Users\Andrei\Desktop\GlebovProj\LoadForIGR-main\AccountigConsumable\obj\Release\WorkersS.baml
+F:\Users\Andrei\Desktop\GlebovProj\LoadForIGR-main\AccountigConsumable\obj\Release\WorkWithInvent.baml
+F:\Users\Andrei\Desktop\GlebovProj\LoadForIGR-main\AccountigConsumable\obj\Release\WorkWithOrder.baml
+F:\Users\Andrei\Desktop\GlebovProj\LoadForIGR-main\AccountigConsumable\obj\Release\WorkWithWorkersData.baml
+F:\Users\Andrei\Desktop\GlebovProj\LoadForIGR-main\AccountigConsumable\obj\Release\AccountigConsumable.g.resources
+F:\Users\Andrei\Desktop\GlebovProj\LoadForIGR-main\AccountigConsumable\obj\Release\AccountigConsumable.Properties.Resources.resources
+F:\Users\Andrei\Desktop\GlebovProj\LoadForIGR-main\AccountigConsumable\obj\Release\AccountigConsumable.csproj.GenerateResource.cache
+F:\Users\Andrei\Desktop\GlebovProj\LoadForIGR-main\AccountigConsumable\obj\Release\AccountigConsumable.csproj.CoreCompileInputs.cache
+F:\Users\Andrei\Desktop\GlebovProj\LoadForIGR-main\AccountigConsumable\obj\Release\AccountigConsumable.csproj.CopyComplete
+F:\Users\Andrei\Desktop\GlebovProj\LoadForIGR-main\AccountigConsumable\obj\Release\AccountigConsumable.exe
+F:\Users\Andrei\Desktop\GlebovProj\LoadForIGR-main\AccountigConsumable\obj\Release\AccountigConsumable.pdb
+F:\Users\Andrei\Desktop\GlebovProj\LoadForIGR-main\AccountigConsumable\obj\Release\AccountigConsumable.csprojAssemblyReference.cache
+C:\Users\sdopuasho\Desktop\AccountingConsumablesBetta-main\GlebovProj\LoadForIGR-main\AccountigConsumable\obj\Release\AccountigConsumable.csprojAssemblyReference.cache
+C:\Users\sdopuasho\Desktop\AccountingConsumablesBetta-main\GlebovProj\LoadForIGR-main\AccountigConsumable\obj\Release\UIThemes\ColorScheme.baml
+C:\Users\sdopuasho\Desktop\AccountingConsumablesBetta-main\GlebovProj\LoadForIGR-main\AccountigConsumable\obj\Release\UIThemes\Elements\SimpleBorder.baml
+C:\Users\sdopuasho\Desktop\AccountingConsumablesBetta-main\GlebovProj\LoadForIGR-main\AccountigConsumable\obj\Release\UIThemes\Elements\SimpleButton.baml
+C:\Users\sdopuasho\Desktop\AccountingConsumablesBetta-main\GlebovProj\LoadForIGR-main\AccountigConsumable\obj\Release\UIThemes\Elements\SimpleCheckBox.baml
+C:\Users\sdopuasho\Desktop\AccountingConsumablesBetta-main\GlebovProj\LoadForIGR-main\AccountigConsumable\obj\Release\UIThemes\Elements\SimpleComboBox.baml
+C:\Users\sdopuasho\Desktop\AccountingConsumablesBetta-main\GlebovProj\LoadForIGR-main\AccountigConsumable\obj\Release\UIThemes\Elements\SimpleComboBoxItem.baml
+C:\Users\sdopuasho\Desktop\AccountingConsumablesBetta-main\GlebovProj\LoadForIGR-main\AccountigConsumable\obj\Release\UIThemes\Elements\SimpleContextMenu.baml
+C:\Users\sdopuasho\Desktop\AccountingConsumablesBetta-main\GlebovProj\LoadForIGR-main\AccountigConsumable\obj\Release\UIThemes\Elements\SimpleDataGrid.baml
+C:\Users\sdopuasho\Desktop\AccountingConsumablesBetta-main\GlebovProj\LoadForIGR-main\AccountigConsumable\obj\Release\UIThemes\Elements\SimpleGroupBox.baml
+C:\Users\sdopuasho\Desktop\AccountingConsumablesBetta-main\GlebovProj\LoadForIGR-main\AccountigConsumable\obj\Release\UIThemes\Elements\SimpleHyperLink.baml
+C:\Users\sdopuasho\Desktop\AccountingConsumablesBetta-main\GlebovProj\LoadForIGR-main\AccountigConsumable\obj\Release\UIThemes\Elements\SimpleLabel.baml
+C:\Users\sdopuasho\Desktop\AccountingConsumablesBetta-main\GlebovProj\LoadForIGR-main\AccountigConsumable\obj\Release\UIThemes\Elements\SimpleListBox.baml
+C:\Users\sdopuasho\Desktop\AccountingConsumablesBetta-main\GlebovProj\LoadForIGR-main\AccountigConsumable\obj\Release\UIThemes\Elements\SimpleListBoxItem.baml
+C:\Users\sdopuasho\Desktop\AccountingConsumablesBetta-main\GlebovProj\LoadForIGR-main\AccountigConsumable\obj\Release\UIThemes\Elements\SimpleListView.baml
+C:\Users\sdopuasho\Desktop\AccountingConsumablesBetta-main\GlebovProj\LoadForIGR-main\AccountigConsumable\obj\Release\UIThemes\Elements\SimpleListViewItem.baml
+C:\Users\sdopuasho\Desktop\AccountingConsumablesBetta-main\GlebovProj\LoadForIGR-main\AccountigConsumable\obj\Release\UIThemes\Elements\SimpleMenu.baml
+C:\Users\sdopuasho\Desktop\AccountingConsumablesBetta-main\GlebovProj\LoadForIGR-main\AccountigConsumable\obj\Release\UIThemes\Elements\SimpleMenuItem.baml
+C:\Users\sdopuasho\Desktop\AccountingConsumablesBetta-main\GlebovProj\LoadForIGR-main\AccountigConsumable\obj\Release\UIThemes\Elements\SimplePasswordBox.baml
+C:\Users\sdopuasho\Desktop\AccountingConsumablesBetta-main\GlebovProj\LoadForIGR-main\AccountigConsumable\obj\Release\UIThemes\Elements\SimpleProgressBar.baml
+C:\Users\sdopuasho\Desktop\AccountingConsumablesBetta-main\GlebovProj\LoadForIGR-main\AccountigConsumable\obj\Release\UIThemes\Elements\SimpleRadioButton.baml
+C:\Users\sdopuasho\Desktop\AccountingConsumablesBetta-main\GlebovProj\LoadForIGR-main\AccountigConsumable\obj\Release\UIThemes\Elements\SimpleRichTextBox.baml
+C:\Users\sdopuasho\Desktop\AccountingConsumablesBetta-main\GlebovProj\LoadForIGR-main\AccountigConsumable\obj\Release\UIThemes\Elements\SimpleScrollViewer.baml
+C:\Users\sdopuasho\Desktop\AccountingConsumablesBetta-main\GlebovProj\LoadForIGR-main\AccountigConsumable\obj\Release\UIThemes\Elements\SimpleSeparator.baml
+C:\Users\sdopuasho\Desktop\AccountingConsumablesBetta-main\GlebovProj\LoadForIGR-main\AccountigConsumable\obj\Release\UIThemes\Elements\SimpleSlider.baml
+C:\Users\sdopuasho\Desktop\AccountingConsumablesBetta-main\GlebovProj\LoadForIGR-main\AccountigConsumable\obj\Release\UIThemes\Elements\SimpleTabControl.baml
+C:\Users\sdopuasho\Desktop\AccountingConsumablesBetta-main\GlebovProj\LoadForIGR-main\AccountigConsumable\obj\Release\UIThemes\Elements\SimpleTabItem.baml
+C:\Users\sdopuasho\Desktop\AccountingConsumablesBetta-main\GlebovProj\LoadForIGR-main\AccountigConsumable\obj\Release\UIThemes\Elements\SimpleTextBlock.baml
+C:\Users\sdopuasho\Desktop\AccountingConsumablesBetta-main\GlebovProj\LoadForIGR-main\AccountigConsumable\obj\Release\UIThemes\Elements\SimpleTextBox.baml
+C:\Users\sdopuasho\Desktop\AccountingConsumablesBetta-main\GlebovProj\LoadForIGR-main\AccountigConsumable\obj\Release\UIThemes\Elements\SimpleToggleButton.baml
+C:\Users\sdopuasho\Desktop\AccountingConsumablesBetta-main\GlebovProj\LoadForIGR-main\AccountigConsumable\obj\Release\UIThemes\Elements\SimpleToolBar.baml
+C:\Users\sdopuasho\Desktop\AccountingConsumablesBetta-main\GlebovProj\LoadForIGR-main\AccountigConsumable\obj\Release\UIThemes\Elements\SimpleToolTip.baml
+C:\Users\sdopuasho\Desktop\AccountingConsumablesBetta-main\GlebovProj\LoadForIGR-main\AccountigConsumable\obj\Release\UIThemes\Elements\SimpleTreeView.baml
+C:\Users\sdopuasho\Desktop\AccountingConsumablesBetta-main\GlebovProj\LoadForIGR-main\AccountigConsumable\obj\Release\UIThemes\Elements\SimpleTreeViewItem.baml
+C:\Users\sdopuasho\Desktop\AccountingConsumablesBetta-main\GlebovProj\LoadForIGR-main\AccountigConsumable\obj\Release\UIThemes\Elements\SimpleUserControl.baml
+C:\Users\sdopuasho\Desktop\AccountingConsumablesBetta-main\GlebovProj\LoadForIGR-main\AccountigConsumable\obj\Release\UIThemes\ThemeSimple.baml
+C:\Users\sdopuasho\Desktop\AccountingConsumablesBetta-main\GlebovProj\LoadForIGR-main\AccountigConsumable\obj\Release\AutherizationPage.g.cs
+C:\Users\sdopuasho\Desktop\AccountingConsumablesBetta-main\GlebovProj\LoadForIGR-main\AccountigConsumable\obj\Release\ClockUI.g.cs
+C:\Users\sdopuasho\Desktop\AccountingConsumablesBetta-main\GlebovProj\LoadForIGR-main\AccountigConsumable\obj\Release\ClockUISimpl.g.cs
+C:\Users\sdopuasho\Desktop\AccountingConsumablesBetta-main\GlebovProj\LoadForIGR-main\AccountigConsumable\obj\Release\ConsumableIssue.g.cs
+C:\Users\sdopuasho\Desktop\AccountingConsumablesBetta-main\GlebovProj\LoadForIGR-main\AccountigConsumable\obj\Release\ConsumablePage.g.cs
+C:\Users\sdopuasho\Desktop\AccountingConsumablesBetta-main\GlebovProj\LoadForIGR-main\AccountigConsumable\obj\Release\ConsumablePageWorkWithData.g.cs
+C:\Users\sdopuasho\Desktop\AccountingConsumablesBetta-main\GlebovProj\LoadForIGR-main\AccountigConsumable\obj\Release\ConsumPageAbout.g.cs
+C:\Users\sdopuasho\Desktop\AccountingConsumablesBetta-main\GlebovProj\LoadForIGR-main\AccountigConsumable\obj\Release\EditOrderInWarehouse.g.cs
+C:\Users\sdopuasho\Desktop\AccountingConsumablesBetta-main\GlebovProj\LoadForIGR-main\AccountigConsumable\obj\Release\EditRoom.g.cs
+C:\Users\sdopuasho\Desktop\AccountingConsumablesBetta-main\GlebovProj\LoadForIGR-main\AccountigConsumable\obj\Release\Inventarizationpage.g.cs
+C:\Users\sdopuasho\Desktop\AccountingConsumablesBetta-main\GlebovProj\LoadForIGR-main\AccountigConsumable\obj\Release\InventarizationPageAbout.g.cs
+C:\Users\sdopuasho\Desktop\AccountingConsumablesBetta-main\GlebovProj\LoadForIGR-main\AccountigConsumable\obj\Release\LogPage.g.cs
+C:\Users\sdopuasho\Desktop\AccountingConsumablesBetta-main\GlebovProj\LoadForIGR-main\AccountigConsumable\obj\Release\LogWindow.g.cs
+C:\Users\sdopuasho\Desktop\AccountingConsumablesBetta-main\GlebovProj\LoadForIGR-main\AccountigConsumable\obj\Release\MainWindow.g.cs
+C:\Users\sdopuasho\Desktop\AccountingConsumablesBetta-main\GlebovProj\LoadForIGR-main\AccountigConsumable\obj\Release\NewInventPAge.g.cs
+C:\Users\sdopuasho\Desktop\AccountingConsumablesBetta-main\GlebovProj\LoadForIGR-main\AccountigConsumable\obj\Release\OperationHistoryPage.g.cs
+C:\Users\sdopuasho\Desktop\AccountingConsumablesBetta-main\GlebovProj\LoadForIGR-main\AccountigConsumable\obj\Release\OrderConsumPage.g.cs
+C:\Users\sdopuasho\Desktop\AccountingConsumablesBetta-main\GlebovProj\LoadForIGR-main\AccountigConsumable\obj\Release\OrderInWarehouse.g.cs
+C:\Users\sdopuasho\Desktop\AccountingConsumablesBetta-main\GlebovProj\LoadForIGR-main\AccountigConsumable\obj\Release\OrderMorePage.g.cs
+C:\Users\sdopuasho\Desktop\AccountingConsumablesBetta-main\GlebovProj\LoadForIGR-main\AccountigConsumable\obj\Release\PasswordWindow.g.cs
+C:\Users\sdopuasho\Desktop\AccountingConsumablesBetta-main\GlebovProj\LoadForIGR-main\AccountigConsumable\obj\Release\NewEquipInInvent.g.cs
+C:\Users\sdopuasho\Desktop\AccountingConsumablesBetta-main\GlebovProj\LoadForIGR-main\AccountigConsumable\obj\Release\RoomPage.g.cs
+C:\Users\sdopuasho\Desktop\AccountingConsumablesBetta-main\GlebovProj\LoadForIGR-main\AccountigConsumable\obj\Release\UIButtonMainPage.g.cs
+C:\Users\sdopuasho\Desktop\AccountingConsumablesBetta-main\GlebovProj\LoadForIGR-main\AccountigConsumable\obj\Release\WorkersS.g.cs
+C:\Users\sdopuasho\Desktop\AccountingConsumablesBetta-main\GlebovProj\LoadForIGR-main\AccountigConsumable\obj\Release\WorkWithInvent.g.cs
+C:\Users\sdopuasho\Desktop\AccountingConsumablesBetta-main\GlebovProj\LoadForIGR-main\AccountigConsumable\obj\Release\WorkWithOrder.g.cs
+C:\Users\sdopuasho\Desktop\AccountingConsumablesBetta-main\GlebovProj\LoadForIGR-main\AccountigConsumable\obj\Release\WorkWithWorkersData.g.cs
+C:\Users\sdopuasho\Desktop\AccountingConsumablesBetta-main\GlebovProj\LoadForIGR-main\AccountigConsumable\obj\Release\App.g.cs
+C:\Users\sdopuasho\Desktop\AccountingConsumablesBetta-main\GlebovProj\LoadForIGR-main\AccountigConsumable\obj\Release\AccountigConsumable_Content.g.cs
+C:\Users\sdopuasho\Desktop\AccountingConsumablesBetta-main\GlebovProj\LoadForIGR-main\AccountigConsumable\obj\Release\GeneratedInternalTypeHelper.g.cs
+C:\Users\sdopuasho\Desktop\AccountingConsumablesBetta-main\GlebovProj\LoadForIGR-main\AccountigConsumable\obj\Release\AccountigConsumable_MarkupCompile.cache
+C:\Users\sdopuasho\Desktop\AccountingConsumablesBetta-main\GlebovProj\LoadForIGR-main\AccountigConsumable\obj\Release\AccountigConsumable_MarkupCompile.lref
+C:\Users\sdopuasho\Desktop\AccountingConsumablesBetta-main\GlebovProj\LoadForIGR-main\AccountigConsumable\obj\Release\AccountigConsumable.exe
+C:\Users\sdopuasho\Desktop\AccountingConsumablesBetta-main\GlebovProj\LoadForIGR-main\AccountigConsumable\obj\Release\AccountigConsumable.pdb
+C:\Users\sdopuasho\Desktop\AccountingConsumablesBetta-main\GlebovProj\LoadForIGR-main\AccountigConsumable\bin\Release\AccountigConsumable.exe.config
+C:\Users\sdopuasho\Desktop\AccountingConsumablesBetta-main\GlebovProj\LoadForIGR-main\AccountigConsumable\bin\Release\AccountigConsumable.exe
+C:\Users\sdopuasho\Desktop\AccountingConsumablesBetta-main\GlebovProj\LoadForIGR-main\AccountigConsumable\bin\Release\AccountigConsumable.pdb
+C:\Users\sdopuasho\Desktop\AccountingConsumablesBetta-main\GlebovProj\LoadForIGR-main\AccountigConsumable\bin\Release\CommonWin32.dll
+C:\Users\sdopuasho\Desktop\AccountingConsumablesBetta-main\GlebovProj\LoadForIGR-main\AccountigConsumable\bin\Release\EntityFramework.dll
+C:\Users\sdopuasho\Desktop\AccountingConsumablesBetta-main\GlebovProj\LoadForIGR-main\AccountigConsumable\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\sdopuasho\Desktop\AccountingConsumablesBetta-main\GlebovProj\LoadForIGR-main\AccountigConsumable\bin\Release\RestSharp.dll
+C:\Users\sdopuasho\Desktop\AccountingConsumablesBetta-main\GlebovProj\LoadForIGR-main\AccountigConsumable\bin\Release\CommonWin32.pdb
+C:\Users\sdopuasho\Desktop\AccountingConsumablesBetta-main\GlebovProj\LoadForIGR-main\AccountigConsumable\bin\Release\CommonWin32.xml
+C:\Users\sdopuasho\Desktop\AccountingConsumablesBetta-main\GlebovProj\LoadForIGR-main\AccountigConsumable\bin\Release\EntityFramework.xml
+C:\Users\sdopuasho\Desktop\AccountingConsumablesBetta-main\GlebovProj\LoadForIGR-main\AccountigConsumable\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\sdopuasho\Desktop\AccountingConsumablesBetta-main\GlebovProj\LoadForIGR-main\AccountigConsumable\bin\Release\RestSharp.xml
+C:\Users\sdopuasho\Desktop\AccountingConsumablesBetta-main\GlebovProj\LoadForIGR-main\AccountigConsumable\bin\Release\ru\EntityFramework.resources.dll
+C:\Users\sdopuasho\Desktop\AccountingConsumablesBetta-main\GlebovProj\LoadForIGR-main\AccountigConsumable\bin\Release\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\sdopuasho\Desktop\AccountingConsumablesBetta-main\GlebovProj\LoadForIGR-main\AccountigConsumable\obj\Release\AutherizationPage.baml
+C:\Users\sdopuasho\Desktop\AccountingConsumablesBetta-main\GlebovProj\LoadForIGR-main\AccountigConsumable\obj\Release\ClockUI.baml
+C:\Users\sdopuasho\Desktop\AccountingConsumablesBetta-main\GlebovProj\LoadForIGR-main\AccountigConsumable\obj\Release\ClockUISimpl.baml
+C:\Users\sdopuasho\Desktop\AccountingConsumablesBetta-main\GlebovProj\LoadForIGR-main\AccountigConsumable\obj\Release\ConsumableIssue.baml
+C:\Users\sdopuasho\Desktop\AccountingConsumablesBetta-main\GlebovProj\LoadForIGR-main\AccountigConsumable\obj\Release\ConsumablePage.baml
+C:\Users\sdopuasho\Desktop\AccountingConsumablesBetta-main\GlebovProj\LoadForIGR-main\AccountigConsumable\obj\Release\ConsumablePageWorkWithData.baml
+C:\Users\sdopuasho\Desktop\AccountingConsumablesBetta-main\GlebovProj\LoadForIGR-main\AccountigConsumable\obj\Release\ConsumPageAbout.baml
+C:\Users\sdopuasho\Desktop\AccountingConsumablesBetta-main\GlebovProj\LoadForIGR-main\AccountigConsumable\obj\Release\EditOrderInWarehouse.baml
+C:\Users\sdopuasho\Desktop\AccountingConsumablesBetta-main\GlebovProj\LoadForIGR-main\AccountigConsumable\obj\Release\EditRoom.baml
+C:\Users\sdopuasho\Desktop\AccountingConsumablesBetta-main\GlebovProj\LoadForIGR-main\AccountigConsumable\obj\Release\Inventarizationpage.baml
+C:\Users\sdopuasho\Desktop\AccountingConsumablesBetta-main\GlebovProj\LoadForIGR-main\AccountigConsumable\obj\Release\InventarizationPageAbout.baml
+C:\Users\sdopuasho\Desktop\AccountingConsumablesBetta-main\GlebovProj\LoadForIGR-main\AccountigConsumable\obj\Release\LogPage.baml
+C:\Users\sdopuasho\Desktop\AccountingConsumablesBetta-main\GlebovProj\LoadForIGR-main\AccountigConsumable\obj\Release\LogWindow.baml
+C:\Users\sdopuasho\Desktop\AccountingConsumablesBetta-main\GlebovProj\LoadForIGR-main\AccountigConsumable\obj\Release\MainWindow.baml
+C:\Users\sdopuasho\Desktop\AccountingConsumablesBetta-main\GlebovProj\LoadForIGR-main\AccountigConsumable\obj\Release\NewInventPAge.baml
+C:\Users\sdopuasho\Desktop\AccountingConsumablesBetta-main\GlebovProj\LoadForIGR-main\AccountigConsumable\obj\Release\OperationHistoryPage.baml
+C:\Users\sdopuasho\Desktop\AccountingConsumablesBetta-main\GlebovProj\LoadForIGR-main\AccountigConsumable\obj\Release\OrderConsumPage.baml
+C:\Users\sdopuasho\Desktop\AccountingConsumablesBetta-main\GlebovProj\LoadForIGR-main\AccountigConsumable\obj\Release\OrderInWarehouse.baml
+C:\Users\sdopuasho\Desktop\AccountingConsumablesBetta-main\GlebovProj\LoadForIGR-main\AccountigConsumable\obj\Release\OrderMorePage.baml
+C:\Users\sdopuasho\Desktop\AccountingConsumablesBetta-main\GlebovProj\LoadForIGR-main\AccountigConsumable\obj\Release\PasswordWindow.baml
+C:\Users\sdopuasho\Desktop\AccountingConsumablesBetta-main\GlebovProj\LoadForIGR-main\AccountigConsumable\obj\Release\NewEquipInInvent.baml
+C:\Users\sdopuasho\Desktop\AccountingConsumablesBetta-main\GlebovProj\LoadForIGR-main\AccountigConsumable\obj\Release\RoomPage.baml
+C:\Users\sdopuasho\Desktop\AccountingConsumablesBetta-main\GlebovProj\LoadForIGR-main\AccountigConsumable\obj\Release\UIButtonMainPage.baml
+C:\Users\sdopuasho\Desktop\AccountingConsumablesBetta-main\GlebovProj\LoadForIGR-main\AccountigConsumable\obj\Release\UIThemes\Elements\SimpleStyledWindow.baml
+C:\Users\sdopuasho\Desktop\AccountingConsumablesBetta-main\GlebovProj\LoadForIGR-main\AccountigConsumable\obj\Release\WorkersS.baml
+C:\Users\sdopuasho\Desktop\AccountingConsumablesBetta-main\GlebovProj\LoadForIGR-main\AccountigConsumable\obj\Release\WorkWithInvent.baml
+C:\Users\sdopuasho\Desktop\AccountingConsumablesBetta-main\GlebovProj\LoadForIGR-main\AccountigConsumable\obj\Release\WorkWithOrder.baml
+C:\Users\sdopuasho\Desktop\AccountingConsumablesBetta-main\GlebovProj\LoadForIGR-main\AccountigConsumable\obj\Release\WorkWithWorkersData.baml
+C:\Users\sdopuasho\Desktop\AccountingConsumablesBetta-main\GlebovProj\LoadForIGR-main\AccountigConsumable\obj\Release\AccountigConsumable.g.resources
+C:\Users\sdopuasho\Desktop\AccountingConsumablesBetta-main\GlebovProj\LoadForIGR-main\AccountigConsumable\obj\Release\AccountigConsumable.Properties.Resources.resources
+C:\Users\sdopuasho\Desktop\AccountingConsumablesBetta-main\GlebovProj\LoadForIGR-main\AccountigConsumable\obj\Release\AccountigConsumable.csproj.GenerateResource.cache
+C:\Users\sdopuasho\Desktop\AccountingConsumablesBetta-main\GlebovProj\LoadForIGR-main\AccountigConsumable\obj\Release\AccountigConsumable.csproj.CoreCompileInputs.cache
+C:\Users\sdopuasho\Desktop\AccountingConsumablesBetta-main\GlebovProj\LoadForIGR-main\AccountigConsumable\obj\Release\AccountigConsumable.csproj.CopyComplete
+C:\Users\sdopuasho\Desktop\AccountingConsumablesBetta-main\GlebovProj\LoadForIGR-main\AccountigConsumable\obj\Release\PasswordBoxWatermark.g.cs
+C:\Users\sdopuasho\Desktop\AccountingConsumablesBetta-main\GlebovProj\LoadForIGR-main\AccountigConsumable\obj\Release\PasswordBoxWatermark.baml
+C:\Users\sdopuasho\Desktop\AccountingConsumablesBetta-main\GlebovProj\LoadForIGR-main\AccountigConsumable\obj\Release\App.baml
+C:\Users\sdopuasho\Desktop\AnProject\AccountigConsumable\bin\Release\AccountigConsumable.exe.config
+C:\Users\sdopuasho\Desktop\AnProject\AccountigConsumable\bin\Release\AccountigConsumable.exe
+C:\Users\sdopuasho\Desktop\AnProject\AccountigConsumable\bin\Release\AccountigConsumable.pdb
+C:\Users\sdopuasho\Desktop\AnProject\AccountigConsumable\bin\Release\CommonWin32.dll
+C:\Users\sdopuasho\Desktop\AnProject\AccountigConsumable\bin\Release\EntityFramework.dll
+C:\Users\sdopuasho\Desktop\AnProject\AccountigConsumable\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\sdopuasho\Desktop\AnProject\AccountigConsumable\bin\Release\RestSharp.dll
+C:\Users\sdopuasho\Desktop\AnProject\AccountigConsumable\bin\Release\CommonWin32.pdb
+C:\Users\sdopuasho\Desktop\AnProject\AccountigConsumable\bin\Release\CommonWin32.xml
+C:\Users\sdopuasho\Desktop\AnProject\AccountigConsumable\bin\Release\EntityFramework.xml
+C:\Users\sdopuasho\Desktop\AnProject\AccountigConsumable\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\sdopuasho\Desktop\AnProject\AccountigConsumable\bin\Release\RestSharp.xml
+C:\Users\sdopuasho\Desktop\AnProject\AccountigConsumable\bin\Release\ru\EntityFramework.resources.dll
+C:\Users\sdopuasho\Desktop\AnProject\AccountigConsumable\bin\Release\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\sdopuasho\Desktop\AnProject\AccountigConsumable\obj\Release\AccountigConsumable.csprojAssemblyReference.cache
+C:\Users\sdopuasho\Desktop\AnProject\AccountigConsumable\obj\Release\UIThemes\ColorScheme.baml
+C:\Users\sdopuasho\Desktop\AnProject\AccountigConsumable\obj\Release\UIThemes\Elements\SimpleBorder.baml
+C:\Users\sdopuasho\Desktop\AnProject\AccountigConsumable\obj\Release\UIThemes\Elements\SimpleButton.baml
+C:\Users\sdopuasho\Desktop\AnProject\AccountigConsumable\obj\Release\UIThemes\Elements\SimpleCheckBox.baml
+C:\Users\sdopuasho\Desktop\AnProject\AccountigConsumable\obj\Release\UIThemes\Elements\SimpleComboBox.baml
+C:\Users\sdopuasho\Desktop\AnProject\AccountigConsumable\obj\Release\UIThemes\Elements\SimpleComboBoxItem.baml
+C:\Users\sdopuasho\Desktop\AnProject\AccountigConsumable\obj\Release\UIThemes\Elements\SimpleContextMenu.baml
+C:\Users\sdopuasho\Desktop\AnProject\AccountigConsumable\obj\Release\UIThemes\Elements\SimpleDataGrid.baml
+C:\Users\sdopuasho\Desktop\AnProject\AccountigConsumable\obj\Release\UIThemes\Elements\SimpleGroupBox.baml
+C:\Users\sdopuasho\Desktop\AnProject\AccountigConsumable\obj\Release\UIThemes\Elements\SimpleHyperLink.baml
+C:\Users\sdopuasho\Desktop\AnProject\AccountigConsumable\obj\Release\UIThemes\Elements\SimpleLabel.baml
+C:\Users\sdopuasho\Desktop\AnProject\AccountigConsumable\obj\Release\UIThemes\Elements\SimpleListBox.baml
+C:\Users\sdopuasho\Desktop\AnProject\AccountigConsumable\obj\Release\UIThemes\Elements\SimpleListBoxItem.baml
+C:\Users\sdopuasho\Desktop\AnProject\AccountigConsumable\obj\Release\UIThemes\Elements\SimpleListView.baml
+C:\Users\sdopuasho\Desktop\AnProject\AccountigConsumable\obj\Release\UIThemes\Elements\SimpleListViewItem.baml
+C:\Users\sdopuasho\Desktop\AnProject\AccountigConsumable\obj\Release\UIThemes\Elements\SimpleMenu.baml
+C:\Users\sdopuasho\Desktop\AnProject\AccountigConsumable\obj\Release\UIThemes\Elements\SimpleMenuItem.baml
+C:\Users\sdopuasho\Desktop\AnProject\AccountigConsumable\obj\Release\UIThemes\Elements\SimplePasswordBox.baml
+C:\Users\sdopuasho\Desktop\AnProject\AccountigConsumable\obj\Release\UIThemes\Elements\SimpleProgressBar.baml
+C:\Users\sdopuasho\Desktop\AnProject\AccountigConsumable\obj\Release\UIThemes\Elements\SimpleRadioButton.baml
+C:\Users\sdopuasho\Desktop\AnProject\AccountigConsumable\obj\Release\UIThemes\Elements\SimpleRichTextBox.baml
+C:\Users\sdopuasho\Desktop\AnProject\AccountigConsumable\obj\Release\UIThemes\Elements\SimpleScrollViewer.baml
+C:\Users\sdopuasho\Desktop\AnProject\AccountigConsumable\obj\Release\UIThemes\Elements\SimpleSeparator.baml
+C:\Users\sdopuasho\Desktop\AnProject\AccountigConsumable\obj\Release\UIThemes\Elements\SimpleSlider.baml
+C:\Users\sdopuasho\Desktop\AnProject\AccountigConsumable\obj\Release\UIThemes\Elements\SimpleTabControl.baml
+C:\Users\sdopuasho\Desktop\AnProject\AccountigConsumable\obj\Release\UIThemes\Elements\SimpleTabItem.baml
+C:\Users\sdopuasho\Desktop\AnProject\AccountigConsumable\obj\Release\UIThemes\Elements\SimpleTextBlock.baml
+C:\Users\sdopuasho\Desktop\AnProject\AccountigConsumable\obj\Release\UIThemes\Elements\SimpleTextBox.baml
+C:\Users\sdopuasho\Desktop\AnProject\AccountigConsumable\obj\Release\UIThemes\Elements\SimpleToggleButton.baml
+C:\Users\sdopuasho\Desktop\AnProject\AccountigConsumable\obj\Release\UIThemes\Elements\SimpleToolBar.baml
+C:\Users\sdopuasho\Desktop\AnProject\AccountigConsumable\obj\Release\UIThemes\Elements\SimpleToolTip.baml
+C:\Users\sdopuasho\Desktop\AnProject\AccountigConsumable\obj\Release\UIThemes\Elements\SimpleTreeView.baml
+C:\Users\sdopuasho\Desktop\AnProject\AccountigConsumable\obj\Release\UIThemes\Elements\SimpleTreeViewItem.baml
+C:\Users\sdopuasho\Desktop\AnProject\AccountigConsumable\obj\Release\UIThemes\Elements\SimpleUserControl.baml
+C:\Users\sdopuasho\Desktop\AnProject\AccountigConsumable\obj\Release\UIThemes\ThemeSimple.baml
+C:\Users\sdopuasho\Desktop\AnProject\AccountigConsumable\obj\Release\AutherizationPage.g.cs
+C:\Users\sdopuasho\Desktop\AnProject\AccountigConsumable\obj\Release\ClockUI.g.cs
+C:\Users\sdopuasho\Desktop\AnProject\AccountigConsumable\obj\Release\ClockUISimpl.g.cs
+C:\Users\sdopuasho\Desktop\AnProject\AccountigConsumable\obj\Release\ConsumableIssue.g.cs
+C:\Users\sdopuasho\Desktop\AnProject\AccountigConsumable\obj\Release\ConsumablePage.g.cs
+C:\Users\sdopuasho\Desktop\AnProject\AccountigConsumable\obj\Release\ConsumablePageWorkWithData.g.cs
+C:\Users\sdopuasho\Desktop\AnProject\AccountigConsumable\obj\Release\ConsumPageAbout.g.cs
+C:\Users\sdopuasho\Desktop\AnProject\AccountigConsumable\obj\Release\EditOrderInWarehouse.g.cs
+C:\Users\sdopuasho\Desktop\AnProject\AccountigConsumable\obj\Release\EditRoom.g.cs
+C:\Users\sdopuasho\Desktop\AnProject\AccountigConsumable\obj\Release\Inventarizationpage.g.cs
+C:\Users\sdopuasho\Desktop\AnProject\AccountigConsumable\obj\Release\InventarizationPageAbout.g.cs
+C:\Users\sdopuasho\Desktop\AnProject\AccountigConsumable\obj\Release\LogPage.g.cs
+C:\Users\sdopuasho\Desktop\AnProject\AccountigConsumable\obj\Release\LogWindow.g.cs
+C:\Users\sdopuasho\Desktop\AnProject\AccountigConsumable\obj\Release\MainWindow.g.cs
+C:\Users\sdopuasho\Desktop\AnProject\AccountigConsumable\obj\Release\NewInventPAge.g.cs
+C:\Users\sdopuasho\Desktop\AnProject\AccountigConsumable\obj\Release\OperationHistoryPage.g.cs
+C:\Users\sdopuasho\Desktop\AnProject\AccountigConsumable\obj\Release\OrderConsumPage.g.cs
+C:\Users\sdopuasho\Desktop\AnProject\AccountigConsumable\obj\Release\OrderInWarehouse.g.cs
+C:\Users\sdopuasho\Desktop\AnProject\AccountigConsumable\obj\Release\OrderMorePage.g.cs
+C:\Users\sdopuasho\Desktop\AnProject\AccountigConsumable\obj\Release\PasswordBoxWatermark.g.cs
+C:\Users\sdopuasho\Desktop\AnProject\AccountigConsumable\obj\Release\PasswordWindow.g.cs
+C:\Users\sdopuasho\Desktop\AnProject\AccountigConsumable\obj\Release\NewEquipInInvent.g.cs
+C:\Users\sdopuasho\Desktop\AnProject\AccountigConsumable\obj\Release\RoomPage.g.cs
+C:\Users\sdopuasho\Desktop\AnProject\AccountigConsumable\obj\Release\UIButtonMainPage.g.cs
+C:\Users\sdopuasho\Desktop\AnProject\AccountigConsumable\obj\Release\WorkersS.g.cs
+C:\Users\sdopuasho\Desktop\AnProject\AccountigConsumable\obj\Release\WorkWithInvent.g.cs
+C:\Users\sdopuasho\Desktop\AnProject\AccountigConsumable\obj\Release\WorkWithOrder.g.cs
+C:\Users\sdopuasho\Desktop\AnProject\AccountigConsumable\obj\Release\WorkWithWorkersData.g.cs
+C:\Users\sdopuasho\Desktop\AnProject\AccountigConsumable\obj\Release\App.g.cs
+C:\Users\sdopuasho\Desktop\AnProject\AccountigConsumable\obj\Release\AccountigConsumable_Content.g.cs
+C:\Users\sdopuasho\Desktop\AnProject\AccountigConsumable\obj\Release\GeneratedInternalTypeHelper.g.cs
+C:\Users\sdopuasho\Desktop\AnProject\AccountigConsumable\obj\Release\AccountigConsumable_MarkupCompile.cache
+C:\Users\sdopuasho\Desktop\AnProject\AccountigConsumable\obj\Release\AccountigConsumable_MarkupCompile.lref
+C:\Users\sdopuasho\Desktop\AnProject\AccountigConsumable\obj\Release\App.baml
+C:\Users\sdopuasho\Desktop\AnProject\AccountigConsumable\obj\Release\AutherizationPage.baml
+C:\Users\sdopuasho\Desktop\AnProject\AccountigConsumable\obj\Release\ClockUI.baml
+C:\Users\sdopuasho\Desktop\AnProject\AccountigConsumable\obj\Release\ClockUISimpl.baml
+C:\Users\sdopuasho\Desktop\AnProject\AccountigConsumable\obj\Release\ConsumableIssue.baml
+C:\Users\sdopuasho\Desktop\AnProject\AccountigConsumable\obj\Release\ConsumablePage.baml
+C:\Users\sdopuasho\Desktop\AnProject\AccountigConsumable\obj\Release\ConsumablePageWorkWithData.baml
+C:\Users\sdopuasho\Desktop\AnProject\AccountigConsumable\obj\Release\ConsumPageAbout.baml
+C:\Users\sdopuasho\Desktop\AnProject\AccountigConsumable\obj\Release\EditOrderInWarehouse.baml
+C:\Users\sdopuasho\Desktop\AnProject\AccountigConsumable\obj\Release\EditRoom.baml
+C:\Users\sdopuasho\Desktop\AnProject\AccountigConsumable\obj\Release\Inventarizationpage.baml
+C:\Users\sdopuasho\Desktop\AnProject\AccountigConsumable\obj\Release\InventarizationPageAbout.baml
+C:\Users\sdopuasho\Desktop\AnProject\AccountigConsumable\obj\Release\LogPage.baml
+C:\Users\sdopuasho\Desktop\AnProject\AccountigConsumable\obj\Release\LogWindow.baml
+C:\Users\sdopuasho\Desktop\AnProject\AccountigConsumable\obj\Release\MainWindow.baml
+C:\Users\sdopuasho\Desktop\AnProject\AccountigConsumable\obj\Release\NewInventPAge.baml
+C:\Users\sdopuasho\Desktop\AnProject\AccountigConsumable\obj\Release\OperationHistoryPage.baml
+C:\Users\sdopuasho\Desktop\AnProject\AccountigConsumable\obj\Release\OrderConsumPage.baml
+C:\Users\sdopuasho\Desktop\AnProject\AccountigConsumable\obj\Release\OrderInWarehouse.baml
+C:\Users\sdopuasho\Desktop\AnProject\AccountigConsumable\obj\Release\OrderMorePage.baml
+C:\Users\sdopuasho\Desktop\AnProject\AccountigConsumable\obj\Release\PasswordBoxWatermark.baml
+C:\Users\sdopuasho\Desktop\AnProject\AccountigConsumable\obj\Release\PasswordWindow.baml
+C:\Users\sdopuasho\Desktop\AnProject\AccountigConsumable\obj\Release\NewEquipInInvent.baml
+C:\Users\sdopuasho\Desktop\AnProject\AccountigConsumable\obj\Release\RoomPage.baml
+C:\Users\sdopuasho\Desktop\AnProject\AccountigConsumable\obj\Release\UIButtonMainPage.baml
+C:\Users\sdopuasho\Desktop\AnProject\AccountigConsumable\obj\Release\UIThemes\Elements\SimpleStyledWindow.baml
+C:\Users\sdopuasho\Desktop\AnProject\AccountigConsumable\obj\Release\WorkersS.baml
+C:\Users\sdopuasho\Desktop\AnProject\AccountigConsumable\obj\Release\WorkWithInvent.baml
+C:\Users\sdopuasho\Desktop\AnProject\AccountigConsumable\obj\Release\WorkWithOrder.baml
+C:\Users\sdopuasho\Desktop\AnProject\AccountigConsumable\obj\Release\WorkWithWorkersData.baml
+C:\Users\sdopuasho\Desktop\AnProject\AccountigConsumable\obj\Release\AccountigConsumable.g.resources
+C:\Users\sdopuasho\Desktop\AnProject\AccountigConsumable\obj\Release\AccountigConsumable.Properties.Resources.resources
+C:\Users\sdopuasho\Desktop\AnProject\AccountigConsumable\obj\Release\AccountigConsumable.csproj.GenerateResource.cache
+C:\Users\sdopuasho\Desktop\AnProject\AccountigConsumable\obj\Release\AccountigConsumable.csproj.CoreCompileInputs.cache
+C:\Users\sdopuasho\Desktop\AnProject\AccountigConsumable\obj\Release\AccountigConsumable.csproj.CopyComplete
+C:\Users\sdopuasho\Desktop\AnProject\AccountigConsumable\obj\Release\AccountigConsumable.exe
+C:\Users\sdopuasho\Desktop\AnProject\AccountigConsumable\obj\Release\AccountigConsumable.pdb
+C:\Users\sdopuasho\Desktop\Togit\AnProject\AccountigConsumable\bin\Release\AccountigConsumable.exe.config
+C:\Users\sdopuasho\Desktop\Togit\AnProject\AccountigConsumable\bin\Release\AccountigConsumable.exe
+C:\Users\sdopuasho\Desktop\Togit\AnProject\AccountigConsumable\bin\Release\AccountigConsumable.pdb
+C:\Users\sdopuasho\Desktop\Togit\AnProject\AccountigConsumable\bin\Release\CommonWin32.dll
+C:\Users\sdopuasho\Desktop\Togit\AnProject\AccountigConsumable\bin\Release\EntityFramework.dll
+C:\Users\sdopuasho\Desktop\Togit\AnProject\AccountigConsumable\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\sdopuasho\Desktop\Togit\AnProject\AccountigConsumable\bin\Release\RestSharp.dll
+C:\Users\sdopuasho\Desktop\Togit\AnProject\AccountigConsumable\bin\Release\CommonWin32.pdb
+C:\Users\sdopuasho\Desktop\Togit\AnProject\AccountigConsumable\bin\Release\CommonWin32.xml
+C:\Users\sdopuasho\Desktop\Togit\AnProject\AccountigConsumable\bin\Release\EntityFramework.xml
+C:\Users\sdopuasho\Desktop\Togit\AnProject\AccountigConsumable\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\sdopuasho\Desktop\Togit\AnProject\AccountigConsumable\bin\Release\RestSharp.xml
+C:\Users\sdopuasho\Desktop\Togit\AnProject\AccountigConsumable\bin\Release\ru\EntityFramework.resources.dll
+C:\Users\sdopuasho\Desktop\Togit\AnProject\AccountigConsumable\bin\Release\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\sdopuasho\Desktop\Togit\AnProject\AccountigConsumable\obj\Release\AccountigConsumable.csprojAssemblyReference.cache
+C:\Users\sdopuasho\Desktop\Togit\AnProject\AccountigConsumable\obj\Release\UIThemes\ColorScheme.baml
+C:\Users\sdopuasho\Desktop\Togit\AnProject\AccountigConsumable\obj\Release\UIThemes\Elements\SimpleBorder.baml
+C:\Users\sdopuasho\Desktop\Togit\AnProject\AccountigConsumable\obj\Release\UIThemes\Elements\SimpleButton.baml
+C:\Users\sdopuasho\Desktop\Togit\AnProject\AccountigConsumable\obj\Release\UIThemes\Elements\SimpleCheckBox.baml
+C:\Users\sdopuasho\Desktop\Togit\AnProject\AccountigConsumable\obj\Release\UIThemes\Elements\SimpleComboBox.baml
+C:\Users\sdopuasho\Desktop\Togit\AnProject\AccountigConsumable\obj\Release\UIThemes\Elements\SimpleComboBoxItem.baml
+C:\Users\sdopuasho\Desktop\Togit\AnProject\AccountigConsumable\obj\Release\UIThemes\Elements\SimpleContextMenu.baml
+C:\Users\sdopuasho\Desktop\Togit\AnProject\AccountigConsumable\obj\Release\UIThemes\Elements\SimpleDataGrid.baml
+C:\Users\sdopuasho\Desktop\Togit\AnProject\AccountigConsumable\obj\Release\UIThemes\Elements\SimpleGroupBox.baml
+C:\Users\sdopuasho\Desktop\Togit\AnProject\AccountigConsumable\obj\Release\UIThemes\Elements\SimpleHyperLink.baml
+C:\Users\sdopuasho\Desktop\Togit\AnProject\AccountigConsumable\obj\Release\UIThemes\Elements\SimpleLabel.baml
+C:\Users\sdopuasho\Desktop\Togit\AnProject\AccountigConsumable\obj\Release\UIThemes\Elements\SimpleListBox.baml
+C:\Users\sdopuasho\Desktop\Togit\AnProject\AccountigConsumable\obj\Release\UIThemes\Elements\SimpleListBoxItem.baml
+C:\Users\sdopuasho\Desktop\Togit\AnProject\AccountigConsumable\obj\Release\UIThemes\Elements\SimpleListView.baml
+C:\Users\sdopuasho\Desktop\Togit\AnProject\AccountigConsumable\obj\Release\UIThemes\Elements\SimpleListViewItem.baml
+C:\Users\sdopuasho\Desktop\Togit\AnProject\AccountigConsumable\obj\Release\UIThemes\Elements\SimpleMenu.baml
+C:\Users\sdopuasho\Desktop\Togit\AnProject\AccountigConsumable\obj\Release\UIThemes\Elements\SimpleMenuItem.baml
+C:\Users\sdopuasho\Desktop\Togit\AnProject\AccountigConsumable\obj\Release\UIThemes\Elements\SimplePasswordBox.baml
+C:\Users\sdopuasho\Desktop\Togit\AnProject\AccountigConsumable\obj\Release\UIThemes\Elements\SimpleProgressBar.baml
+C:\Users\sdopuasho\Desktop\Togit\AnProject\AccountigConsumable\obj\Release\UIThemes\Elements\SimpleRadioButton.baml
+C:\Users\sdopuasho\Desktop\Togit\AnProject\AccountigConsumable\obj\Release\UIThemes\Elements\SimpleRichTextBox.baml
+C:\Users\sdopuasho\Desktop\Togit\AnProject\AccountigConsumable\obj\Release\UIThemes\Elements\SimpleScrollViewer.baml
+C:\Users\sdopuasho\Desktop\Togit\AnProject\AccountigConsumable\obj\Release\UIThemes\Elements\SimpleSeparator.baml
+C:\Users\sdopuasho\Desktop\Togit\AnProject\AccountigConsumable\obj\Release\UIThemes\Elements\SimpleSlider.baml
+C:\Users\sdopuasho\Desktop\Togit\AnProject\AccountigConsumable\obj\Release\UIThemes\Elements\SimpleTabControl.baml
+C:\Users\sdopuasho\Desktop\Togit\AnProject\AccountigConsumable\obj\Release\UIThemes\Elements\SimpleTabItem.baml
+C:\Users\sdopuasho\Desktop\Togit\AnProject\AccountigConsumable\obj\Release\UIThemes\Elements\SimpleTextBlock.baml
+C:\Users\sdopuasho\Desktop\Togit\AnProject\AccountigConsumable\obj\Release\UIThemes\Elements\SimpleTextBox.baml
+C:\Users\sdopuasho\Desktop\Togit\AnProject\AccountigConsumable\obj\Release\UIThemes\Elements\SimpleToggleButton.baml
+C:\Users\sdopuasho\Desktop\Togit\AnProject\AccountigConsumable\obj\Release\UIThemes\Elements\SimpleToolBar.baml
+C:\Users\sdopuasho\Desktop\Togit\AnProject\AccountigConsumable\obj\Release\UIThemes\Elements\SimpleToolTip.baml
+C:\Users\sdopuasho\Desktop\Togit\AnProject\AccountigConsumable\obj\Release\UIThemes\Elements\SimpleTreeView.baml
+C:\Users\sdopuasho\Desktop\Togit\AnProject\AccountigConsumable\obj\Release\UIThemes\Elements\SimpleTreeViewItem.baml
+C:\Users\sdopuasho\Desktop\Togit\AnProject\AccountigConsumable\obj\Release\UIThemes\Elements\SimpleUserControl.baml
+C:\Users\sdopuasho\Desktop\Togit\AnProject\AccountigConsumable\obj\Release\UIThemes\ThemeSimple.baml
+C:\Users\sdopuasho\Desktop\Togit\AnProject\AccountigConsumable\obj\Release\AutherizationPage.g.cs
+C:\Users\sdopuasho\Desktop\Togit\AnProject\AccountigConsumable\obj\Release\ClockUI.g.cs
+C:\Users\sdopuasho\Desktop\Togit\AnProject\AccountigConsumable\obj\Release\ClockUISimpl.g.cs
+C:\Users\sdopuasho\Desktop\Togit\AnProject\AccountigConsumable\obj\Release\ConsumableIssue.g.cs
+C:\Users\sdopuasho\Desktop\Togit\AnProject\AccountigConsumable\obj\Release\ConsumablePage.g.cs
+C:\Users\sdopuasho\Desktop\Togit\AnProject\AccountigConsumable\obj\Release\ConsumablePageWorkWithData.g.cs
+C:\Users\sdopuasho\Desktop\Togit\AnProject\AccountigConsumable\obj\Release\ConsumPageAbout.g.cs
+C:\Users\sdopuasho\Desktop\Togit\AnProject\AccountigConsumable\obj\Release\EditOrderInWarehouse.g.cs
+C:\Users\sdopuasho\Desktop\Togit\AnProject\AccountigConsumable\obj\Release\EditRoom.g.cs
+C:\Users\sdopuasho\Desktop\Togit\AnProject\AccountigConsumable\obj\Release\Inventarizationpage.g.cs
+C:\Users\sdopuasho\Desktop\Togit\AnProject\AccountigConsumable\obj\Release\InventarizationPageAbout.g.cs
+C:\Users\sdopuasho\Desktop\Togit\AnProject\AccountigConsumable\obj\Release\LogPage.g.cs
+C:\Users\sdopuasho\Desktop\Togit\AnProject\AccountigConsumable\obj\Release\LogWindow.g.cs
+C:\Users\sdopuasho\Desktop\Togit\AnProject\AccountigConsumable\obj\Release\MainWindow.g.cs
+C:\Users\sdopuasho\Desktop\Togit\AnProject\AccountigConsumable\obj\Release\NewInventPAge.g.cs
+C:\Users\sdopuasho\Desktop\Togit\AnProject\AccountigConsumable\obj\Release\OperationHistoryPage.g.cs
+C:\Users\sdopuasho\Desktop\Togit\AnProject\AccountigConsumable\obj\Release\OrderConsumPage.g.cs
+C:\Users\sdopuasho\Desktop\Togit\AnProject\AccountigConsumable\obj\Release\OrderInWarehouse.g.cs
+C:\Users\sdopuasho\Desktop\Togit\AnProject\AccountigConsumable\obj\Release\OrderMorePage.g.cs
+C:\Users\sdopuasho\Desktop\Togit\AnProject\AccountigConsumable\obj\Release\PasswordBoxWatermark.g.cs
+C:\Users\sdopuasho\Desktop\Togit\AnProject\AccountigConsumable\obj\Release\PasswordWindow.g.cs
+C:\Users\sdopuasho\Desktop\Togit\AnProject\AccountigConsumable\obj\Release\NewEquipInInvent.g.cs
+C:\Users\sdopuasho\Desktop\Togit\AnProject\AccountigConsumable\obj\Release\RoomPage.g.cs
+C:\Users\sdopuasho\Desktop\Togit\AnProject\AccountigConsumable\obj\Release\UIButtonMainPage.g.cs
+C:\Users\sdopuasho\Desktop\Togit\AnProject\AccountigConsumable\obj\Release\WorkersS.g.cs
+C:\Users\sdopuasho\Desktop\Togit\AnProject\AccountigConsumable\obj\Release\WorkWithInvent.g.cs
+C:\Users\sdopuasho\Desktop\Togit\AnProject\AccountigConsumable\obj\Release\WorkWithOrder.g.cs
+C:\Users\sdopuasho\Desktop\Togit\AnProject\AccountigConsumable\obj\Release\WorkWithWorkersData.g.cs
+C:\Users\sdopuasho\Desktop\Togit\AnProject\AccountigConsumable\obj\Release\App.g.cs
+C:\Users\sdopuasho\Desktop\Togit\AnProject\AccountigConsumable\obj\Release\AccountigConsumable_Content.g.cs
+C:\Users\sdopuasho\Desktop\Togit\AnProject\AccountigConsumable\obj\Release\GeneratedInternalTypeHelper.g.cs
+C:\Users\sdopuasho\Desktop\Togit\AnProject\AccountigConsumable\obj\Release\AccountigConsumable_MarkupCompile.cache
+C:\Users\sdopuasho\Desktop\Togit\AnProject\AccountigConsumable\obj\Release\AccountigConsumable_MarkupCompile.lref
+C:\Users\sdopuasho\Desktop\Togit\AnProject\AccountigConsumable\obj\Release\App.baml
+C:\Users\sdopuasho\Desktop\Togit\AnProject\AccountigConsumable\obj\Release\AutherizationPage.baml
+C:\Users\sdopuasho\Desktop\Togit\AnProject\AccountigConsumable\obj\Release\ClockUI.baml
+C:\Users\sdopuasho\Desktop\Togit\AnProject\AccountigConsumable\obj\Release\ClockUISimpl.baml
+C:\Users\sdopuasho\Desktop\Togit\AnProject\AccountigConsumable\obj\Release\ConsumableIssue.baml
+C:\Users\sdopuasho\Desktop\Togit\AnProject\AccountigConsumable\obj\Release\ConsumablePage.baml
+C:\Users\sdopuasho\Desktop\Togit\AnProject\AccountigConsumable\obj\Release\ConsumablePageWorkWithData.baml
+C:\Users\sdopuasho\Desktop\Togit\AnProject\AccountigConsumable\obj\Release\ConsumPageAbout.baml
+C:\Users\sdopuasho\Desktop\Togit\AnProject\AccountigConsumable\obj\Release\EditOrderInWarehouse.baml
+C:\Users\sdopuasho\Desktop\Togit\AnProject\AccountigConsumable\obj\Release\EditRoom.baml
+C:\Users\sdopuasho\Desktop\Togit\AnProject\AccountigConsumable\obj\Release\Inventarizationpage.baml
+C:\Users\sdopuasho\Desktop\Togit\AnProject\AccountigConsumable\obj\Release\InventarizationPageAbout.baml
+C:\Users\sdopuasho\Desktop\Togit\AnProject\AccountigConsumable\obj\Release\LogPage.baml
+C:\Users\sdopuasho\Desktop\Togit\AnProject\AccountigConsumable\obj\Release\LogWindow.baml
+C:\Users\sdopuasho\Desktop\Togit\AnProject\AccountigConsumable\obj\Release\MainWindow.baml
+C:\Users\sdopuasho\Desktop\Togit\AnProject\AccountigConsumable\obj\Release\NewInventPAge.baml
+C:\Users\sdopuasho\Desktop\Togit\AnProject\AccountigConsumable\obj\Release\OperationHistoryPage.baml
+C:\Users\sdopuasho\Desktop\Togit\AnProject\AccountigConsumable\obj\Release\OrderConsumPage.baml
+C:\Users\sdopuasho\Desktop\Togit\AnProject\AccountigConsumable\obj\Release\OrderInWarehouse.baml
+C:\Users\sdopuasho\Desktop\Togit\AnProject\AccountigConsumable\obj\Release\OrderMorePage.baml
+C:\Users\sdopuasho\Desktop\Togit\AnProject\AccountigConsumable\obj\Release\PasswordBoxWatermark.baml
+C:\Users\sdopuasho\Desktop\Togit\AnProject\AccountigConsumable\obj\Release\PasswordWindow.baml
+C:\Users\sdopuasho\Desktop\Togit\AnProject\AccountigConsumable\obj\Release\NewEquipInInvent.baml
+C:\Users\sdopuasho\Desktop\Togit\AnProject\AccountigConsumable\obj\Release\RoomPage.baml
+C:\Users\sdopuasho\Desktop\Togit\AnProject\AccountigConsumable\obj\Release\UIButtonMainPage.baml
+C:\Users\sdopuasho\Desktop\Togit\AnProject\AccountigConsumable\obj\Release\UIThemes\Elements\SimpleStyledWindow.baml
+C:\Users\sdopuasho\Desktop\Togit\AnProject\AccountigConsumable\obj\Release\WorkersS.baml
+C:\Users\sdopuasho\Desktop\Togit\AnProject\AccountigConsumable\obj\Release\WorkWithInvent.baml
+C:\Users\sdopuasho\Desktop\Togit\AnProject\AccountigConsumable\obj\Release\WorkWithOrder.baml
+C:\Users\sdopuasho\Desktop\Togit\AnProject\AccountigConsumable\obj\Release\WorkWithWorkersData.baml
+C:\Users\sdopuasho\Desktop\Togit\AnProject\AccountigConsumable\obj\Release\AccountigConsumable.g.resources
+C:\Users\sdopuasho\Desktop\Togit\AnProject\AccountigConsumable\obj\Release\AccountigConsumable.Properties.Resources.resources
+C:\Users\sdopuasho\Desktop\Togit\AnProject\AccountigConsumable\obj\Release\AccountigConsumable.csproj.GenerateResource.cache
+C:\Users\sdopuasho\Desktop\Togit\AnProject\AccountigConsumable\obj\Release\AccountigConsumable.csproj.CoreCompileInputs.cache
+C:\Users\sdopuasho\Desktop\Togit\AnProject\AccountigConsumable\obj\Release\AccountigConsumable.csproj.CopyComplete
+C:\Users\sdopuasho\Desktop\Togit\AnProject\AccountigConsumable\obj\Release\AccountigConsumable.exe
+C:\Users\sdopuasho\Desktop\Togit\AnProject\AccountigConsumable\obj\Release\AccountigConsumable.pdb
+C:\Users\sdopuasho\Desktop\Togit\Новая папка\AnProject\AccountigConsumable\bin\Release\AccountigConsumable.exe.config
+C:\Users\sdopuasho\Desktop\Togit\Новая папка\AnProject\AccountigConsumable\bin\Release\AccountigConsumable.exe
+C:\Users\sdopuasho\Desktop\Togit\Новая папка\AnProject\AccountigConsumable\bin\Release\AccountigConsumable.pdb
+C:\Users\sdopuasho\Desktop\Togit\Новая папка\AnProject\AccountigConsumable\bin\Release\CommonWin32.dll
+C:\Users\sdopuasho\Desktop\Togit\Новая папка\AnProject\AccountigConsumable\bin\Release\EntityFramework.dll
+C:\Users\sdopuasho\Desktop\Togit\Новая папка\AnProject\AccountigConsumable\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\sdopuasho\Desktop\Togit\Новая папка\AnProject\AccountigConsumable\bin\Release\RestSharp.dll
+C:\Users\sdopuasho\Desktop\Togit\Новая папка\AnProject\AccountigConsumable\bin\Release\CommonWin32.pdb
+C:\Users\sdopuasho\Desktop\Togit\Новая папка\AnProject\AccountigConsumable\bin\Release\CommonWin32.xml
+C:\Users\sdopuasho\Desktop\Togit\Новая папка\AnProject\AccountigConsumable\bin\Release\EntityFramework.xml
+C:\Users\sdopuasho\Desktop\Togit\Новая папка\AnProject\AccountigConsumable\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\sdopuasho\Desktop\Togit\Новая папка\AnProject\AccountigConsumable\bin\Release\RestSharp.xml
+C:\Users\sdopuasho\Desktop\Togit\Новая папка\AnProject\AccountigConsumable\bin\Release\ru\EntityFramework.resources.dll
+C:\Users\sdopuasho\Desktop\Togit\Новая папка\AnProject\AccountigConsumable\bin\Release\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\sdopuasho\Desktop\Togit\Новая папка\AnProject\AccountigConsumable\obj\Release\AccountigConsumable.csprojAssemblyReference.cache
+C:\Users\sdopuasho\Desktop\Togit\Новая папка\AnProject\AccountigConsumable\obj\Release\UIThemes\ColorScheme.baml
+C:\Users\sdopuasho\Desktop\Togit\Новая папка\AnProject\AccountigConsumable\obj\Release\UIThemes\Elements\SimpleBorder.baml
+C:\Users\sdopuasho\Desktop\Togit\Новая папка\AnProject\AccountigConsumable\obj\Release\UIThemes\Elements\SimpleButton.baml
+C:\Users\sdopuasho\Desktop\Togit\Новая папка\AnProject\AccountigConsumable\obj\Release\UIThemes\Elements\SimpleCheckBox.baml
+C:\Users\sdopuasho\Desktop\Togit\Новая папка\AnProject\AccountigConsumable\obj\Release\UIThemes\Elements\SimpleComboBox.baml
+C:\Users\sdopuasho\Desktop\Togit\Новая папка\AnProject\AccountigConsumable\obj\Release\UIThemes\Elements\SimpleComboBoxItem.baml
+C:\Users\sdopuasho\Desktop\Togit\Новая папка\AnProject\AccountigConsumable\obj\Release\UIThemes\Elements\SimpleContextMenu.baml
+C:\Users\sdopuasho\Desktop\Togit\Новая папка\AnProject\AccountigConsumable\obj\Release\UIThemes\Elements\SimpleDataGrid.baml
+C:\Users\sdopuasho\Desktop\Togit\Новая папка\AnProject\AccountigConsumable\obj\Release\UIThemes\Elements\SimpleGroupBox.baml
+C:\Users\sdopuasho\Desktop\Togit\Новая папка\AnProject\AccountigConsumable\obj\Release\UIThemes\Elements\SimpleHyperLink.baml
+C:\Users\sdopuasho\Desktop\Togit\Новая папка\AnProject\AccountigConsumable\obj\Release\UIThemes\Elements\SimpleLabel.baml
+C:\Users\sdopuasho\Desktop\Togit\Новая папка\AnProject\AccountigConsumable\obj\Release\UIThemes\Elements\SimpleListBox.baml
+C:\Users\sdopuasho\Desktop\Togit\Новая папка\AnProject\AccountigConsumable\obj\Release\UIThemes\Elements\SimpleListBoxItem.baml
+C:\Users\sdopuasho\Desktop\Togit\Новая папка\AnProject\AccountigConsumable\obj\Release\UIThemes\Elements\SimpleListView.baml
+C:\Users\sdopuasho\Desktop\Togit\Новая папка\AnProject\AccountigConsumable\obj\Release\UIThemes\Elements\SimpleListViewItem.baml
+C:\Users\sdopuasho\Desktop\Togit\Новая папка\AnProject\AccountigConsumable\obj\Release\UIThemes\Elements\SimpleMenu.baml
+C:\Users\sdopuasho\Desktop\Togit\Новая папка\AnProject\AccountigConsumable\obj\Release\UIThemes\Elements\SimpleMenuItem.baml
+C:\Users\sdopuasho\Desktop\Togit\Новая папка\AnProject\AccountigConsumable\obj\Release\UIThemes\Elements\SimplePasswordBox.baml
+C:\Users\sdopuasho\Desktop\Togit\Новая папка\AnProject\AccountigConsumable\obj\Release\UIThemes\Elements\SimpleProgressBar.baml
+C:\Users\sdopuasho\Desktop\Togit\Новая папка\AnProject\AccountigConsumable\obj\Release\UIThemes\Elements\SimpleRadioButton.baml
+C:\Users\sdopuasho\Desktop\Togit\Новая папка\AnProject\AccountigConsumable\obj\Release\UIThemes\Elements\SimpleRichTextBox.baml
+C:\Users\sdopuasho\Desktop\Togit\Новая папка\AnProject\AccountigConsumable\obj\Release\UIThemes\Elements\SimpleScrollViewer.baml
+C:\Users\sdopuasho\Desktop\Togit\Новая папка\AnProject\AccountigConsumable\obj\Release\UIThemes\Elements\SimpleSeparator.baml
+C:\Users\sdopuasho\Desktop\Togit\Новая папка\AnProject\AccountigConsumable\obj\Release\UIThemes\Elements\SimpleSlider.baml
+C:\Users\sdopuasho\Desktop\Togit\Новая папка\AnProject\AccountigConsumable\obj\Release\UIThemes\Elements\SimpleTabControl.baml
+C:\Users\sdopuasho\Desktop\Togit\Новая папка\AnProject\AccountigConsumable\obj\Release\UIThemes\Elements\SimpleTabItem.baml
+C:\Users\sdopuasho\Desktop\Togit\Новая папка\AnProject\AccountigConsumable\obj\Release\UIThemes\Elements\SimpleTextBlock.baml
+C:\Users\sdopuasho\Desktop\Togit\Новая папка\AnProject\AccountigConsumable\obj\Release\UIThemes\Elements\SimpleTextBox.baml
+C:\Users\sdopuasho\Desktop\Togit\Новая папка\AnProject\AccountigConsumable\obj\Release\UIThemes\Elements\SimpleToggleButton.baml
+C:\Users\sdopuasho\Desktop\Togit\Новая папка\AnProject\AccountigConsumable\obj\Release\UIThemes\Elements\SimpleToolBar.baml
+C:\Users\sdopuasho\Desktop\Togit\Новая папка\AnProject\AccountigConsumable\obj\Release\UIThemes\Elements\SimpleToolTip.baml
+C:\Users\sdopuasho\Desktop\Togit\Новая папка\AnProject\AccountigConsumable\obj\Release\UIThemes\Elements\SimpleTreeView.baml
+C:\Users\sdopuasho\Desktop\Togit\Новая папка\AnProject\AccountigConsumable\obj\Release\UIThemes\Elements\SimpleTreeViewItem.baml
+C:\Users\sdopuasho\Desktop\Togit\Новая папка\AnProject\AccountigConsumable\obj\Release\UIThemes\Elements\SimpleUserControl.baml
+C:\Users\sdopuasho\Desktop\Togit\Новая папка\AnProject\AccountigConsumable\obj\Release\UIThemes\ThemeSimple.baml
+C:\Users\sdopuasho\Desktop\Togit\Новая папка\AnProject\AccountigConsumable\obj\Release\AutherizationPage.g.cs
+C:\Users\sdopuasho\Desktop\Togit\Новая папка\AnProject\AccountigConsumable\obj\Release\ClockUI.g.cs
+C:\Users\sdopuasho\Desktop\Togit\Новая папка\AnProject\AccountigConsumable\obj\Release\ClockUISimpl.g.cs
+C:\Users\sdopuasho\Desktop\Togit\Новая папка\AnProject\AccountigConsumable\obj\Release\ConsumableIssue.g.cs
+C:\Users\sdopuasho\Desktop\Togit\Новая папка\AnProject\AccountigConsumable\obj\Release\ConsumablePage.g.cs
+C:\Users\sdopuasho\Desktop\Togit\Новая папка\AnProject\AccountigConsumable\obj\Release\ConsumablePageWorkWithData.g.cs
+C:\Users\sdopuasho\Desktop\Togit\Новая папка\AnProject\AccountigConsumable\obj\Release\ConsumPageAbout.g.cs
+C:\Users\sdopuasho\Desktop\Togit\Новая папка\AnProject\AccountigConsumable\obj\Release\EditOrderInWarehouse.g.cs
+C:\Users\sdopuasho\Desktop\Togit\Новая папка\AnProject\AccountigConsumable\obj\Release\EditRoom.g.cs
+C:\Users\sdopuasho\Desktop\Togit\Новая папка\AnProject\AccountigConsumable\obj\Release\Inventarizationpage.g.cs
+C:\Users\sdopuasho\Desktop\Togit\Новая папка\AnProject\AccountigConsumable\obj\Release\InventarizationPageAbout.g.cs
+C:\Users\sdopuasho\Desktop\Togit\Новая папка\AnProject\AccountigConsumable\obj\Release\LogPage.g.cs
+C:\Users\sdopuasho\Desktop\Togit\Новая папка\AnProject\AccountigConsumable\obj\Release\LogWindow.g.cs
+C:\Users\sdopuasho\Desktop\Togit\Новая папка\AnProject\AccountigConsumable\obj\Release\MainWindow.g.cs
+C:\Users\sdopuasho\Desktop\Togit\Новая папка\AnProject\AccountigConsumable\obj\Release\NewInventPAge.g.cs
+C:\Users\sdopuasho\Desktop\Togit\Новая папка\AnProject\AccountigConsumable\obj\Release\OperationHistoryPage.g.cs
+C:\Users\sdopuasho\Desktop\Togit\Новая папка\AnProject\AccountigConsumable\obj\Release\OrderConsumPage.g.cs
+C:\Users\sdopuasho\Desktop\Togit\Новая папка\AnProject\AccountigConsumable\obj\Release\OrderInWarehouse.g.cs
+C:\Users\sdopuasho\Desktop\Togit\Новая папка\AnProject\AccountigConsumable\obj\Release\OrderMorePage.g.cs
+C:\Users\sdopuasho\Desktop\Togit\Новая папка\AnProject\AccountigConsumable\obj\Release\PasswordBoxWatermark.g.cs
+C:\Users\sdopuasho\Desktop\Togit\Новая папка\AnProject\AccountigConsumable\obj\Release\PasswordWindow.g.cs
+C:\Users\sdopuasho\Desktop\Togit\Новая папка\AnProject\AccountigConsumable\obj\Release\NewEquipInInvent.g.cs
+C:\Users\sdopuasho\Desktop\Togit\Новая папка\AnProject\AccountigConsumable\obj\Release\RoomPage.g.cs
+C:\Users\sdopuasho\Desktop\Togit\Новая папка\AnProject\AccountigConsumable\obj\Release\UIButtonMainPage.g.cs
+C:\Users\sdopuasho\Desktop\Togit\Новая папка\AnProject\AccountigConsumable\obj\Release\WorkersS.g.cs
+C:\Users\sdopuasho\Desktop\Togit\Новая папка\AnProject\AccountigConsumable\obj\Release\WorkWithInvent.g.cs
+C:\Users\sdopuasho\Desktop\Togit\Новая папка\AnProject\AccountigConsumable\obj\Release\WorkWithOrder.g.cs
+C:\Users\sdopuasho\Desktop\Togit\Новая папка\AnProject\AccountigConsumable\obj\Release\WorkWithWorkersData.g.cs
+C:\Users\sdopuasho\Desktop\Togit\Новая папка\AnProject\AccountigConsumable\obj\Release\App.g.cs
+C:\Users\sdopuasho\Desktop\Togit\Новая папка\AnProject\AccountigConsumable\obj\Release\AccountigConsumable_Content.g.cs
+C:\Users\sdopuasho\Desktop\Togit\Новая папка\AnProject\AccountigConsumable\obj\Release\GeneratedInternalTypeHelper.g.cs
+C:\Users\sdopuasho\Desktop\Togit\Новая папка\AnProject\AccountigConsumable\obj\Release\AccountigConsumable_MarkupCompile.cache
+C:\Users\sdopuasho\Desktop\Togit\Новая папка\AnProject\AccountigConsumable\obj\Release\AccountigConsumable_MarkupCompile.lref
+C:\Users\sdopuasho\Desktop\Togit\Новая папка\AnProject\AccountigConsumable\obj\Release\App.baml
+C:\Users\sdopuasho\Desktop\Togit\Новая папка\AnProject\AccountigConsumable\obj\Release\AutherizationPage.baml
+C:\Users\sdopuasho\Desktop\Togit\Новая папка\AnProject\AccountigConsumable\obj\Release\ClockUI.baml
+C:\Users\sdopuasho\Desktop\Togit\Новая папка\AnProject\AccountigConsumable\obj\Release\ClockUISimpl.baml
+C:\Users\sdopuasho\Desktop\Togit\Новая папка\AnProject\AccountigConsumable\obj\Release\ConsumableIssue.baml
+C:\Users\sdopuasho\Desktop\Togit\Новая папка\AnProject\AccountigConsumable\obj\Release\ConsumablePage.baml
+C:\Users\sdopuasho\Desktop\Togit\Новая папка\AnProject\AccountigConsumable\obj\Release\ConsumablePageWorkWithData.baml
+C:\Users\sdopuasho\Desktop\Togit\Новая папка\AnProject\AccountigConsumable\obj\Release\ConsumPageAbout.baml
+C:\Users\sdopuasho\Desktop\Togit\Новая папка\AnProject\AccountigConsumable\obj\Release\EditOrderInWarehouse.baml
+C:\Users\sdopuasho\Desktop\Togit\Новая папка\AnProject\AccountigConsumable\obj\Release\EditRoom.baml
+C:\Users\sdopuasho\Desktop\Togit\Новая папка\AnProject\AccountigConsumable\obj\Release\Inventarizationpage.baml
+C:\Users\sdopuasho\Desktop\Togit\Новая папка\AnProject\AccountigConsumable\obj\Release\InventarizationPageAbout.baml
+C:\Users\sdopuasho\Desktop\Togit\Новая папка\AnProject\AccountigConsumable\obj\Release\LogPage.baml
+C:\Users\sdopuasho\Desktop\Togit\Новая папка\AnProject\AccountigConsumable\obj\Release\LogWindow.baml
+C:\Users\sdopuasho\Desktop\Togit\Новая папка\AnProject\AccountigConsumable\obj\Release\MainWindow.baml
+C:\Users\sdopuasho\Desktop\Togit\Новая папка\AnProject\AccountigConsumable\obj\Release\NewInventPAge.baml
+C:\Users\sdopuasho\Desktop\Togit\Новая папка\AnProject\AccountigConsumable\obj\Release\OperationHistoryPage.baml
+C:\Users\sdopuasho\Desktop\Togit\Новая папка\AnProject\AccountigConsumable\obj\Release\OrderConsumPage.baml
+C:\Users\sdopuasho\Desktop\Togit\Новая папка\AnProject\AccountigConsumable\obj\Release\OrderInWarehouse.baml
+C:\Users\sdopuasho\Desktop\Togit\Новая папка\AnProject\AccountigConsumable\obj\Release\OrderMorePage.baml
+C:\Users\sdopuasho\Desktop\Togit\Новая папка\AnProject\AccountigConsumable\obj\Release\PasswordBoxWatermark.baml
+C:\Users\sdopuasho\Desktop\Togit\Новая папка\AnProject\AccountigConsumable\obj\Release\PasswordWindow.baml
+C:\Users\sdopuasho\Desktop\Togit\Новая папка\AnProject\AccountigConsumable\obj\Release\NewEquipInInvent.baml
+C:\Users\sdopuasho\Desktop\Togit\Новая папка\AnProject\AccountigConsumable\obj\Release\RoomPage.baml
+C:\Users\sdopuasho\Desktop\Togit\Новая папка\AnProject\AccountigConsumable\obj\Release\UIButtonMainPage.baml
+C:\Users\sdopuasho\Desktop\Togit\Новая папка\AnProject\AccountigConsumable\obj\Release\UIThemes\Elements\SimpleStyledWindow.baml
+C:\Users\sdopuasho\Desktop\Togit\Новая папка\AnProject\AccountigConsumable\obj\Release\WorkersS.baml
+C:\Users\sdopuasho\Desktop\Togit\Новая папка\AnProject\AccountigConsumable\obj\Release\WorkWithInvent.baml
+C:\Users\sdopuasho\Desktop\Togit\Новая папка\AnProject\AccountigConsumable\obj\Release\WorkWithOrder.baml
+C:\Users\sdopuasho\Desktop\Togit\Новая папка\AnProject\AccountigConsumable\obj\Release\WorkWithWorkersData.baml
+C:\Users\sdopuasho\Desktop\Togit\Новая папка\AnProject\AccountigConsumable\obj\Release\AccountigConsumable.g.resources
+C:\Users\sdopuasho\Desktop\Togit\Новая папка\AnProject\AccountigConsumable\obj\Release\AccountigConsumable.Properties.Resources.resources
+C:\Users\sdopuasho\Desktop\Togit\Новая папка\AnProject\AccountigConsumable\obj\Release\AccountigConsumable.csproj.GenerateResource.cache
+C:\Users\sdopuasho\Desktop\Togit\Новая папка\AnProject\AccountigConsumable\obj\Release\AccountigConsumable.csproj.CoreCompileInputs.cache
+C:\Users\sdopuasho\Desktop\Togit\Новая папка\AnProject\AccountigConsumable\obj\Release\AccountigConsumable.csproj.CopyComplete
+C:\Users\sdopuasho\Desktop\Togit\Новая папка\AnProject\AccountigConsumable\obj\Release\AccountigConsumable.exe
+C:\Users\sdopuasho\Desktop\Togit\Новая папка\AnProject\AccountigConsumable\obj\Release\AccountigConsumable.pdb

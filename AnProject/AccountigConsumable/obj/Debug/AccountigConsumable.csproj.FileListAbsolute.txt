@@ -1,0 +1,294 @@
+C:\Users\sdopuasho\source\repos\AccountigConsumable\AccountigConsumable\bin\Debug\AccountigConsumable.exe.config
+C:\Users\sdopuasho\source\repos\AccountigConsumable\AccountigConsumable\bin\Debug\AccountigConsumable.exe
+C:\Users\sdopuasho\source\repos\AccountigConsumable\AccountigConsumable\bin\Debug\AccountigConsumable.pdb
+C:\Users\sdopuasho\source\repos\AccountigConsumable\AccountigConsumable\bin\Debug\EntityFramework.dll
+C:\Users\sdopuasho\source\repos\AccountigConsumable\AccountigConsumable\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\sdopuasho\source\repos\AccountigConsumable\AccountigConsumable\bin\Debug\EntityFramework.xml
+C:\Users\sdopuasho\source\repos\AccountigConsumable\AccountigConsumable\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\sdopuasho\source\repos\AccountigConsumable\AccountigConsumable\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\sdopuasho\source\repos\AccountigConsumable\AccountigConsumable\obj\Debug\AccountigConsumable.csprojAssemblyReference.cache
+C:\Users\sdopuasho\source\repos\AccountigConsumable\AccountigConsumable\obj\Debug\ConsumablePage.g.cs
+C:\Users\sdopuasho\source\repos\AccountigConsumable\AccountigConsumable\obj\Debug\MainWindow.g.cs
+C:\Users\sdopuasho\source\repos\AccountigConsumable\AccountigConsumable\obj\Debug\App.g.cs
+C:\Users\sdopuasho\source\repos\AccountigConsumable\AccountigConsumable\obj\Debug\AccountigConsumable_Content.g.cs
+C:\Users\sdopuasho\source\repos\AccountigConsumable\AccountigConsumable\obj\Debug\AccountigConsumable_MarkupCompile.cache
+C:\Users\sdopuasho\source\repos\AccountigConsumable\AccountigConsumable\obj\Debug\AccountigConsumable_MarkupCompile.lref
+C:\Users\sdopuasho\source\repos\AccountigConsumable\AccountigConsumable\obj\Debug\ConsumablePage.baml
+C:\Users\sdopuasho\source\repos\AccountigConsumable\AccountigConsumable\obj\Debug\MainWindow.baml
+C:\Users\sdopuasho\source\repos\AccountigConsumable\AccountigConsumable\obj\Debug\AccountigConsumable.g.resources
+C:\Users\sdopuasho\source\repos\AccountigConsumable\AccountigConsumable\obj\Debug\AccountigConsumable.Properties.Resources.resources
+C:\Users\sdopuasho\source\repos\AccountigConsumable\AccountigConsumable\obj\Debug\AccountigConsumable.csproj.GenerateResource.cache
+C:\Users\sdopuasho\source\repos\AccountigConsumable\AccountigConsumable\obj\Debug\AccountigConsumable.csproj.CoreCompileInputs.cache
+C:\Users\sdopuasho\source\repos\AccountigConsumable\AccountigConsumable\obj\Debug\AccountigConsumable.csproj.CopyComplete
+C:\Users\sdopuasho\source\repos\AccountigConsumable\AccountigConsumable\obj\Debug\AccountigConsumable.exe
+C:\Users\sdopuasho\source\repos\AccountigConsumable\AccountigConsumable\obj\Debug\AccountigConsumable.pdb
+C:\Users\sdopuasho\source\repos\AccountigConsumable\AccountigConsumable\obj\Debug\ConsumablePageWorkWithData.g.cs
+C:\Users\sdopuasho\source\repos\AccountigConsumable\AccountigConsumable\obj\Debug\ConsumablePageWorkWithData.baml
+C:\Users\sdopuasho\source\repos\AccountigConsumable\AccountigConsumable\obj\Debug\ConsumPageAbout.g.cs
+C:\Users\sdopuasho\source\repos\AccountigConsumable\AccountigConsumable\obj\Debug\ConsumPageAbout.baml
+C:\Users\sdopuasho\source\repos\AccountigConsumable\AccountigConsumable\obj\Debug\App.baml
+C:\Users\sdopuasho\source\repos\AccountigConsumable\AccountigConsumable\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\sdopuasho\source\repos\AccountigConsumable\AccountigConsumable\obj\Debug\WorkersS.g.cs
+C:\Users\sdopuasho\source\repos\AccountigConsumable\AccountigConsumable\obj\Debug\WorkersS.baml
+C:\Users\sdopuasho\source\repos\AccountigConsumable\AccountigConsumable\obj\Debug\WorkWithWorkersData.g.cs
+C:\Users\sdopuasho\source\repos\AccountigConsumable\AccountigConsumable\obj\Debug\WorkWithWorkersData.baml
+C:\Users\sdopuasho\source\repos\AccountigConsumable\AccountigConsumable\obj\Debug\OperationHistoryPage.g.cs
+C:\Users\sdopuasho\source\repos\AccountigConsumable\AccountigConsumable\obj\Debug\OperationHistoryPage.baml
+C:\Users\sdopuasho\source\repos\AccountigConsumable\AccountigConsumable\obj\Debug\RoomPage.g.cs
+C:\Users\sdopuasho\source\repos\AccountigConsumable\AccountigConsumable\obj\Debug\RoomPage.baml
+C:\Users\sdopuasho\source\repos\AccountigConsumable\AccountigConsumable\obj\Debug\EditRoom.g.cs
+C:\Users\sdopuasho\source\repos\AccountigConsumable\AccountigConsumable\obj\Debug\EditRoom.baml
+C:\Users\sdopuasho\source\repos\AccountigConsumable\AccountigConsumable\obj\Debug\OrderConsumPage.g.cs
+C:\Users\sdopuasho\source\repos\AccountigConsumable\AccountigConsumable\obj\Debug\OrderConsumPage.baml
+C:\Users\sdopuasho\source\repos\AccountigConsumable\AccountigConsumable\obj\Debug\WorkWithOrder.g.cs
+C:\Users\sdopuasho\source\repos\AccountigConsumable\AccountigConsumable\obj\Debug\WorkWithOrder.baml
+C:\Users\sdopuasho\source\repos\AccountigConsumable\AccountigConsumable\bin\Debug\RestSharp.dll
+C:\Users\sdopuasho\source\repos\AccountigConsumable\AccountigConsumable\bin\Debug\RestSharp.xml
+C:\Users\sdopuasho\source\repos\AccountigConsumable\AccountigConsumable\obj\Debug\OrderInWarehouse.g.cs
+C:\Users\sdopuasho\source\repos\AccountigConsumable\AccountigConsumable\obj\Debug\OrderInWarehouse.baml
+C:\Users\sdopuasho\source\repos\AccountigConsumable\AccountigConsumable\obj\Debug\EditOrderInWarehouse.g.cs
+C:\Users\sdopuasho\source\repos\AccountigConsumable\AccountigConsumable\obj\Debug\EditOrderInWarehouse.baml
+C:\Users\sdopuasho\source\repos\AccountigConsumable\AccountigConsumable\obj\Debug\ConsumableIssue.g.cs
+C:\Users\sdopuasho\source\repos\AccountigConsumable\AccountigConsumable\obj\Debug\ConsumableIssue.baml
+C:\Users\sdopuasho\source\repos\AccountigConsumable\AccountigConsumable\obj\Debug\OrderMorePage.g.cs
+C:\Users\sdopuasho\source\repos\AccountigConsumable\AccountigConsumable\obj\Debug\OrderMorePage.baml
+C:\Users\sdopuasho\source\repos\AccountigConsumable\AccountigConsumable\bin\Debug\CommonWin32.dll
+C:\Users\sdopuasho\source\repos\AccountigConsumable\AccountigConsumable\bin\Debug\CommonWin32.pdb
+C:\Users\sdopuasho\source\repos\AccountigConsumable\AccountigConsumable\bin\Debug\CommonWin32.xml
+C:\Users\sdopuasho\source\repos\AccountigConsumable\AccountigConsumable\obj\Debug\UIThemes\ColorScheme.baml
+C:\Users\sdopuasho\source\repos\AccountigConsumable\AccountigConsumable\obj\Debug\UIThemes\Elements\SimpleBorder.baml
+C:\Users\sdopuasho\source\repos\AccountigConsumable\AccountigConsumable\obj\Debug\UIThemes\Elements\SimpleButton.baml
+C:\Users\sdopuasho\source\repos\AccountigConsumable\AccountigConsumable\obj\Debug\UIThemes\Elements\SimpleCheckBox.baml
+C:\Users\sdopuasho\source\repos\AccountigConsumable\AccountigConsumable\obj\Debug\UIThemes\Elements\SimpleComboBox.baml
+C:\Users\sdopuasho\source\repos\AccountigConsumable\AccountigConsumable\obj\Debug\UIThemes\Elements\SimpleComboBoxItem.baml
+C:\Users\sdopuasho\source\repos\AccountigConsumable\AccountigConsumable\obj\Debug\UIThemes\Elements\SimpleContextMenu.baml
+C:\Users\sdopuasho\source\repos\AccountigConsumable\AccountigConsumable\obj\Debug\UIThemes\Elements\SimpleDataGrid.baml
+C:\Users\sdopuasho\source\repos\AccountigConsumable\AccountigConsumable\obj\Debug\UIThemes\Elements\SimpleGroupBox.baml
+C:\Users\sdopuasho\source\repos\AccountigConsumable\AccountigConsumable\obj\Debug\UIThemes\Elements\SimpleHyperLink.baml
+C:\Users\sdopuasho\source\repos\AccountigConsumable\AccountigConsumable\obj\Debug\UIThemes\Elements\SimpleLabel.baml
+C:\Users\sdopuasho\source\repos\AccountigConsumable\AccountigConsumable\obj\Debug\UIThemes\Elements\SimpleListBox.baml
+C:\Users\sdopuasho\source\repos\AccountigConsumable\AccountigConsumable\obj\Debug\UIThemes\Elements\SimpleListBoxItem.baml
+C:\Users\sdopuasho\source\repos\AccountigConsumable\AccountigConsumable\obj\Debug\UIThemes\Elements\SimpleListView.baml
+C:\Users\sdopuasho\source\repos\AccountigConsumable\AccountigConsumable\obj\Debug\UIThemes\Elements\SimpleListViewItem.baml
+C:\Users\sdopuasho\source\repos\AccountigConsumable\AccountigConsumable\obj\Debug\UIThemes\Elements\SimpleMenu.baml
+C:\Users\sdopuasho\source\repos\AccountigConsumable\AccountigConsumable\obj\Debug\UIThemes\Elements\SimpleMenuItem.baml
+C:\Users\sdopuasho\source\repos\AccountigConsumable\AccountigConsumable\obj\Debug\UIThemes\Elements\SimplePasswordBox.baml
+C:\Users\sdopuasho\source\repos\AccountigConsumable\AccountigConsumable\obj\Debug\UIThemes\Elements\SimpleProgressBar.baml
+C:\Users\sdopuasho\source\repos\AccountigConsumable\AccountigConsumable\obj\Debug\UIThemes\Elements\SimpleRadioButton.baml
+C:\Users\sdopuasho\source\repos\AccountigConsumable\AccountigConsumable\obj\Debug\UIThemes\Elements\SimpleRichTextBox.baml
+C:\Users\sdopuasho\source\repos\AccountigConsumable\AccountigConsumable\obj\Debug\UIThemes\Elements\SimpleScrollViewer.baml
+C:\Users\sdopuasho\source\repos\AccountigConsumable\AccountigConsumable\obj\Debug\UIThemes\Elements\SimpleSeparator.baml
+C:\Users\sdopuasho\source\repos\AccountigConsumable\AccountigConsumable\obj\Debug\UIThemes\Elements\SimpleSlider.baml
+C:\Users\sdopuasho\source\repos\AccountigConsumable\AccountigConsumable\obj\Debug\UIThemes\Elements\SimpleTabControl.baml
+C:\Users\sdopuasho\source\repos\AccountigConsumable\AccountigConsumable\obj\Debug\UIThemes\Elements\SimpleTabItem.baml
+C:\Users\sdopuasho\source\repos\AccountigConsumable\AccountigConsumable\obj\Debug\UIThemes\Elements\SimpleTextBlock.baml
+C:\Users\sdopuasho\source\repos\AccountigConsumable\AccountigConsumable\obj\Debug\UIThemes\Elements\SimpleTextBox.baml
+C:\Users\sdopuasho\source\repos\AccountigConsumable\AccountigConsumable\obj\Debug\UIThemes\Elements\SimpleToggleButton.baml
+C:\Users\sdopuasho\source\repos\AccountigConsumable\AccountigConsumable\obj\Debug\UIThemes\Elements\SimpleToolBar.baml
+C:\Users\sdopuasho\source\repos\AccountigConsumable\AccountigConsumable\obj\Debug\UIThemes\Elements\SimpleToolTip.baml
+C:\Users\sdopuasho\source\repos\AccountigConsumable\AccountigConsumable\obj\Debug\UIThemes\Elements\SimpleTreeView.baml
+C:\Users\sdopuasho\source\repos\AccountigConsumable\AccountigConsumable\obj\Debug\UIThemes\Elements\SimpleTreeViewItem.baml
+C:\Users\sdopuasho\source\repos\AccountigConsumable\AccountigConsumable\obj\Debug\UIThemes\Elements\SimpleUserControl.baml
+C:\Users\sdopuasho\source\repos\AccountigConsumable\AccountigConsumable\obj\Debug\UIThemes\ThemeSimple.baml
+C:\Users\sdopuasho\source\repos\AccountigConsumable\AccountigConsumable\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\sdopuasho\source\repos\AccountigConsumable\AccountigConsumable\obj\Debug\UIThemes\Elements\SimpleStyledWindow.baml
+C:\Users\sdopuasho\source\repos\AccountigConsumable\AccountigConsumable\obj\Debug\ClockUI.g.cs
+C:\Users\sdopuasho\source\repos\AccountigConsumable\AccountigConsumable\obj\Debug\ClockUI.baml
+C:\Users\sdopuasho\source\repos\AccountigConsumable\AccountigConsumable\obj\Debug\ClockUISimpl.g.cs
+C:\Users\sdopuasho\source\repos\AccountigConsumable\AccountigConsumable\obj\Debug\ClockUISimpl.baml
+C:\Users\sdopuasho\source\repos\AccountigConsumable\AccountigConsumable\obj\Debug\UIButtonMainPage.g.cs
+C:\Users\sdopuasho\source\repos\AccountigConsumable\AccountigConsumable\obj\Debug\UIButtonMainPage.baml
+C:\Users\sdopuasho\source\repos\AccountigConsumable — копия\AccountigConsumable\obj\Debug\AccountigConsumable.csprojAssemblyReference.cache
+C:\Users\sdopuasho\source\repos\AccountigConsumable — копия\AccountigConsumable\obj\Debug\UIThemes\ColorScheme.baml
+C:\Users\sdopuasho\source\repos\AccountigConsumable — копия\AccountigConsumable\obj\Debug\UIThemes\Elements\SimpleBorder.baml
+C:\Users\sdopuasho\source\repos\AccountigConsumable — копия\AccountigConsumable\obj\Debug\UIThemes\Elements\SimpleButton.baml
+C:\Users\sdopuasho\source\repos\AccountigConsumable — копия\AccountigConsumable\obj\Debug\UIThemes\Elements\SimpleCheckBox.baml
+C:\Users\sdopuasho\source\repos\AccountigConsumable — копия\AccountigConsumable\obj\Debug\UIThemes\Elements\SimpleComboBox.baml
+C:\Users\sdopuasho\source\repos\AccountigConsumable — копия\AccountigConsumable\obj\Debug\UIThemes\Elements\SimpleComboBoxItem.baml
+C:\Users\sdopuasho\source\repos\AccountigConsumable — копия\AccountigConsumable\obj\Debug\UIThemes\Elements\SimpleContextMenu.baml
+C:\Users\sdopuasho\source\repos\AccountigConsumable — копия\AccountigConsumable\obj\Debug\UIThemes\Elements\SimpleDataGrid.baml
+C:\Users\sdopuasho\source\repos\AccountigConsumable — копия\AccountigConsumable\obj\Debug\UIThemes\Elements\SimpleGroupBox.baml
+C:\Users\sdopuasho\source\repos\AccountigConsumable — копия\AccountigConsumable\obj\Debug\UIThemes\Elements\SimpleHyperLink.baml
+C:\Users\sdopuasho\source\repos\AccountigConsumable — копия\AccountigConsumable\obj\Debug\UIThemes\Elements\SimpleLabel.baml
+C:\Users\sdopuasho\source\repos\AccountigConsumable — копия\AccountigConsumable\obj\Debug\UIThemes\Elements\SimpleListBox.baml
+C:\Users\sdopuasho\source\repos\AccountigConsumable — копия\AccountigConsumable\obj\Debug\UIThemes\Elements\SimpleListBoxItem.baml
+C:\Users\sdopuasho\source\repos\AccountigConsumable — копия\AccountigConsumable\obj\Debug\UIThemes\Elements\SimpleListView.baml
+C:\Users\sdopuasho\source\repos\AccountigConsumable — копия\AccountigConsumable\obj\Debug\UIThemes\Elements\SimpleListViewItem.baml
+C:\Users\sdopuasho\source\repos\AccountigConsumable — копия\AccountigConsumable\obj\Debug\UIThemes\Elements\SimpleMenu.baml
+C:\Users\sdopuasho\source\repos\AccountigConsumable — копия\AccountigConsumable\obj\Debug\UIThemes\Elements\SimpleMenuItem.baml
+C:\Users\sdopuasho\source\repos\AccountigConsumable — копия\AccountigConsumable\obj\Debug\UIThemes\Elements\SimplePasswordBox.baml
+C:\Users\sdopuasho\source\repos\AccountigConsumable — копия\AccountigConsumable\obj\Debug\UIThemes\Elements\SimpleProgressBar.baml
+C:\Users\sdopuasho\source\repos\AccountigConsumable — копия\AccountigConsumable\obj\Debug\UIThemes\Elements\SimpleRadioButton.baml
+C:\Users\sdopuasho\source\repos\AccountigConsumable — копия\AccountigConsumable\obj\Debug\UIThemes\Elements\SimpleRichTextBox.baml
+C:\Users\sdopuasho\source\repos\AccountigConsumable — копия\AccountigConsumable\obj\Debug\UIThemes\Elements\SimpleScrollViewer.baml
+C:\Users\sdopuasho\source\repos\AccountigConsumable — копия\AccountigConsumable\obj\Debug\UIThemes\Elements\SimpleSeparator.baml
+C:\Users\sdopuasho\source\repos\AccountigConsumable — копия\AccountigConsumable\obj\Debug\UIThemes\Elements\SimpleSlider.baml
+C:\Users\sdopuasho\source\repos\AccountigConsumable — копия\AccountigConsumable\obj\Debug\UIThemes\Elements\SimpleTabControl.baml
+C:\Users\sdopuasho\source\repos\AccountigConsumable — копия\AccountigConsumable\obj\Debug\UIThemes\Elements\SimpleTabItem.baml
+C:\Users\sdopuasho\source\repos\AccountigConsumable — копия\AccountigConsumable\obj\Debug\UIThemes\Elements\SimpleTextBlock.baml
+C:\Users\sdopuasho\source\repos\AccountigConsumable — копия\AccountigConsumable\obj\Debug\UIThemes\Elements\SimpleTextBox.baml
+C:\Users\sdopuasho\source\repos\AccountigConsumable — копия\AccountigConsumable\obj\Debug\UIThemes\Elements\SimpleToggleButton.baml
+C:\Users\sdopuasho\source\repos\AccountigConsumable — копия\AccountigConsumable\obj\Debug\UIThemes\Elements\SimpleToolBar.baml
+C:\Users\sdopuasho\source\repos\AccountigConsumable — копия\AccountigConsumable\obj\Debug\UIThemes\Elements\SimpleToolTip.baml
+C:\Users\sdopuasho\source\repos\AccountigConsumable — копия\AccountigConsumable\obj\Debug\UIThemes\Elements\SimpleTreeView.baml
+C:\Users\sdopuasho\source\repos\AccountigConsumable — копия\AccountigConsumable\obj\Debug\UIThemes\Elements\SimpleTreeViewItem.baml
+C:\Users\sdopuasho\source\repos\AccountigConsumable — копия\AccountigConsumable\obj\Debug\UIThemes\Elements\SimpleUserControl.baml
+C:\Users\sdopuasho\source\repos\AccountigConsumable — копия\AccountigConsumable\obj\Debug\UIThemes\ThemeSimple.baml
+C:\Users\sdopuasho\source\repos\AccountigConsumable — копия\AccountigConsumable\obj\Debug\ClockUI.g.cs
+C:\Users\sdopuasho\source\repos\AccountigConsumable — копия\AccountigConsumable\obj\Debug\ClockUISimpl.g.cs
+C:\Users\sdopuasho\source\repos\AccountigConsumable — копия\AccountigConsumable\obj\Debug\ConsumableIssue.g.cs
+C:\Users\sdopuasho\source\repos\AccountigConsumable — копия\AccountigConsumable\obj\Debug\ConsumablePageWorkWithData.g.cs
+C:\Users\sdopuasho\source\repos\AccountigConsumable — копия\AccountigConsumable\obj\Debug\ConsumPageAbout.g.cs
+C:\Users\sdopuasho\source\repos\AccountigConsumable — копия\AccountigConsumable\obj\Debug\EditOrderInWarehouse.g.cs
+C:\Users\sdopuasho\source\repos\AccountigConsumable — копия\AccountigConsumable\obj\Debug\EditRoom.g.cs
+C:\Users\sdopuasho\source\repos\AccountigConsumable — копия\AccountigConsumable\obj\Debug\MainWindow.g.cs
+C:\Users\sdopuasho\source\repos\AccountigConsumable — копия\AccountigConsumable\obj\Debug\OperationHistoryPage.g.cs
+C:\Users\sdopuasho\source\repos\AccountigConsumable — копия\AccountigConsumable\obj\Debug\OrderConsumPage.g.cs
+C:\Users\sdopuasho\source\repos\AccountigConsumable — копия\AccountigConsumable\obj\Debug\OrderInWarehouse.g.cs
+C:\Users\sdopuasho\source\repos\AccountigConsumable — копия\AccountigConsumable\obj\Debug\OrderMorePage.g.cs
+C:\Users\sdopuasho\source\repos\AccountigConsumable — копия\AccountigConsumable\obj\Debug\RoomPage.g.cs
+C:\Users\sdopuasho\source\repos\AccountigConsumable — копия\AccountigConsumable\obj\Debug\UIButtonMainPage.g.cs
+C:\Users\sdopuasho\source\repos\AccountigConsumable — копия\AccountigConsumable\obj\Debug\WorkersS.g.cs
+C:\Users\sdopuasho\source\repos\AccountigConsumable — копия\AccountigConsumable\obj\Debug\WorkWithOrder.g.cs
+C:\Users\sdopuasho\source\repos\AccountigConsumable — копия\AccountigConsumable\obj\Debug\WorkWithWorkersData.g.cs
+C:\Users\sdopuasho\source\repos\AccountigConsumable — копия\AccountigConsumable\obj\Debug\App.g.cs
+C:\Users\sdopuasho\source\repos\AccountigConsumable — копия\AccountigConsumable\obj\Debug\AccountigConsumable_Content.g.cs
+C:\Users\sdopuasho\source\repos\AccountigConsumable — копия\AccountigConsumable\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\sdopuasho\source\repos\AccountigConsumable — копия\AccountigConsumable\obj\Debug\AccountigConsumable_MarkupCompile.cache
+C:\Users\sdopuasho\source\repos\AccountigConsumable — копия\AccountigConsumable\obj\Debug\AccountigConsumable_MarkupCompile.lref
+C:\Users\sdopuasho\source\repos\AccountigConsumable — копия\AccountigConsumable\obj\Debug\AccountigConsumable.exe
+C:\Users\sdopuasho\source\repos\AccountigConsumable — копия\AccountigConsumable\obj\Debug\AccountigConsumable.pdb
+C:\Users\sdopuasho\source\repos\AccountigConsumable — копия\AccountigConsumable\bin\Debug\AccountigConsumable.exe.config
+C:\Users\sdopuasho\source\repos\AccountigConsumable — копия\AccountigConsumable\bin\Debug\AccountigConsumable.exe
+C:\Users\sdopuasho\source\repos\AccountigConsumable — копия\AccountigConsumable\bin\Debug\AccountigConsumable.pdb
+C:\Users\sdopuasho\source\repos\AccountigConsumable — копия\AccountigConsumable\bin\Debug\CommonWin32.dll
+C:\Users\sdopuasho\source\repos\AccountigConsumable — копия\AccountigConsumable\bin\Debug\EntityFramework.dll
+C:\Users\sdopuasho\source\repos\AccountigConsumable — копия\AccountigConsumable\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\sdopuasho\source\repos\AccountigConsumable — копия\AccountigConsumable\bin\Debug\RestSharp.dll
+C:\Users\sdopuasho\source\repos\AccountigConsumable — копия\AccountigConsumable\bin\Debug\CommonWin32.pdb
+C:\Users\sdopuasho\source\repos\AccountigConsumable — копия\AccountigConsumable\bin\Debug\CommonWin32.xml
+C:\Users\sdopuasho\source\repos\AccountigConsumable — копия\AccountigConsumable\bin\Debug\EntityFramework.xml
+C:\Users\sdopuasho\source\repos\AccountigConsumable — копия\AccountigConsumable\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\sdopuasho\source\repos\AccountigConsumable — копия\AccountigConsumable\bin\Debug\RestSharp.xml
+C:\Users\sdopuasho\source\repos\AccountigConsumable — копия\AccountigConsumable\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\sdopuasho\source\repos\AccountigConsumable — копия\AccountigConsumable\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\sdopuasho\source\repos\AccountigConsumable — копия\AccountigConsumable\obj\Debug\ConsumablePage.g.cs
+C:\Users\sdopuasho\source\repos\AccountigConsumable — копия\AccountigConsumable\obj\Debug\App.baml
+C:\Users\sdopuasho\source\repos\AccountigConsumable — копия\AccountigConsumable\obj\Debug\ClockUI.baml
+C:\Users\sdopuasho\source\repos\AccountigConsumable — копия\AccountigConsumable\obj\Debug\ClockUISimpl.baml
+C:\Users\sdopuasho\source\repos\AccountigConsumable — копия\AccountigConsumable\obj\Debug\ConsumableIssue.baml
+C:\Users\sdopuasho\source\repos\AccountigConsumable — копия\AccountigConsumable\obj\Debug\ConsumablePage.baml
+C:\Users\sdopuasho\source\repos\AccountigConsumable — копия\AccountigConsumable\obj\Debug\ConsumablePageWorkWithData.baml
+C:\Users\sdopuasho\source\repos\AccountigConsumable — копия\AccountigConsumable\obj\Debug\ConsumPageAbout.baml
+C:\Users\sdopuasho\source\repos\AccountigConsumable — копия\AccountigConsumable\obj\Debug\EditOrderInWarehouse.baml
+C:\Users\sdopuasho\source\repos\AccountigConsumable — копия\AccountigConsumable\obj\Debug\EditRoom.baml
+C:\Users\sdopuasho\source\repos\AccountigConsumable — копия\AccountigConsumable\obj\Debug\MainWindow.baml
+C:\Users\sdopuasho\source\repos\AccountigConsumable — копия\AccountigConsumable\obj\Debug\OperationHistoryPage.baml
+C:\Users\sdopuasho\source\repos\AccountigConsumable — копия\AccountigConsumable\obj\Debug\OrderConsumPage.baml
+C:\Users\sdopuasho\source\repos\AccountigConsumable — копия\AccountigConsumable\obj\Debug\OrderInWarehouse.baml
+C:\Users\sdopuasho\source\repos\AccountigConsumable — копия\AccountigConsumable\obj\Debug\OrderMorePage.baml
+C:\Users\sdopuasho\source\repos\AccountigConsumable — копия\AccountigConsumable\obj\Debug\RoomPage.baml
+C:\Users\sdopuasho\source\repos\AccountigConsumable — копия\AccountigConsumable\obj\Debug\UIButtonMainPage.baml
+C:\Users\sdopuasho\source\repos\AccountigConsumable — копия\AccountigConsumable\obj\Debug\UIThemes\Elements\SimpleStyledWindow.baml
+C:\Users\sdopuasho\source\repos\AccountigConsumable — копия\AccountigConsumable\obj\Debug\WorkersS.baml
+C:\Users\sdopuasho\source\repos\AccountigConsumable — копия\AccountigConsumable\obj\Debug\WorkWithOrder.baml
+C:\Users\sdopuasho\source\repos\AccountigConsumable — копия\AccountigConsumable\obj\Debug\WorkWithWorkersData.baml
+C:\Users\sdopuasho\source\repos\AccountigConsumable — копия\AccountigConsumable\obj\Debug\AccountigConsumable.g.resources
+C:\Users\sdopuasho\source\repos\AccountigConsumable — копия\AccountigConsumable\obj\Debug\AccountigConsumable.Properties.Resources.resources
+C:\Users\sdopuasho\source\repos\AccountigConsumable — копия\AccountigConsumable\obj\Debug\AccountigConsumable.csproj.GenerateResource.cache
+C:\Users\sdopuasho\source\repos\AccountigConsumable — копия\AccountigConsumable\obj\Debug\AccountigConsumable.csproj.CoreCompileInputs.cache
+C:\Users\sdopuasho\source\repos\AccountigConsumable — копия\AccountigConsumable\obj\Debug\AccountigConsumable.csproj.CopyComplete
+C:\Users\sdopuasho\source\repos\AccountigConsumable — копия\AccountigConsumable\obj\Debug\AutherizationPage.g.cs
+C:\Users\sdopuasho\source\repos\AccountigConsumable — копия\AccountigConsumable\obj\Debug\LogPage.g.cs
+C:\Users\sdopuasho\source\repos\AccountigConsumable — копия\AccountigConsumable\obj\Debug\LogWindow.g.cs
+C:\Users\sdopuasho\source\repos\AccountigConsumable — копия\AccountigConsumable\obj\Debug\AutherizationPage.baml
+C:\Users\sdopuasho\source\repos\AccountigConsumable — копия\AccountigConsumable\obj\Debug\LogPage.baml
+C:\Users\sdopuasho\source\repos\AccountigConsumable — копия\AccountigConsumable\obj\Debug\LogWindow.baml
+C:\Users\sdopuasho\source\repos\AccountigConsumable\AccountigConsumable\obj\Debug\AutherizationPage.g.cs
+C:\Users\sdopuasho\source\repos\AccountigConsumable\AccountigConsumable\obj\Debug\Inventarizationpage.g.cs
+C:\Users\sdopuasho\source\repos\AccountigConsumable\AccountigConsumable\obj\Debug\LogPage.g.cs
+C:\Users\sdopuasho\source\repos\AccountigConsumable\AccountigConsumable\obj\Debug\LogWindow.g.cs
+C:\Users\sdopuasho\source\repos\AccountigConsumable\AccountigConsumable\obj\Debug\PasswordWindow.g.cs
+C:\Users\sdopuasho\source\repos\AccountigConsumable\AccountigConsumable\obj\Debug\WorkWithInvent.g.cs
+C:\Users\sdopuasho\source\repos\AccountigConsumable\AccountigConsumable\obj\Debug\InventarizationPageAbout.g.cs
+C:\Users\sdopuasho\source\repos\AccountigConsumable\AccountigConsumable\obj\Debug\NewInventPAge.g.cs
+C:\Users\sdopuasho\source\repos\AccountigConsumable\AccountigConsumable\obj\Debug\AutherizationPage.baml
+C:\Users\sdopuasho\source\repos\AccountigConsumable\AccountigConsumable\obj\Debug\Inventarizationpage.baml
+C:\Users\sdopuasho\source\repos\AccountigConsumable\AccountigConsumable\obj\Debug\InventarizationPageAbout.baml
+C:\Users\sdopuasho\source\repos\AccountigConsumable\AccountigConsumable\obj\Debug\LogPage.baml
+C:\Users\sdopuasho\source\repos\AccountigConsumable\AccountigConsumable\obj\Debug\LogWindow.baml
+C:\Users\sdopuasho\source\repos\AccountigConsumable\AccountigConsumable\obj\Debug\NewInventPAge.baml
+C:\Users\sdopuasho\source\repos\AccountigConsumable\AccountigConsumable\obj\Debug\PasswordWindow.baml
+C:\Users\sdopuasho\source\repos\AccountigConsumable\AccountigConsumable\obj\Debug\WorkWithInvent.baml
+C:\Users\sdopuasho\source\repos\AccountigConsumable\AccountigConsumable\obj\Debug\Properties\NewEquipInInvent.g.cs
+C:\Users\sdopuasho\source\repos\AccountigConsumable\AccountigConsumable\obj\Debug\Properties\NewEquipInInvent.baml
+F:\Users\Andrei\Desktop\Новая папка\LoadForIGR-main\AccountigConsumable\obj\Debug\AccountigConsumable.csprojAssemblyReference.cache
+F:\Users\Andrei\Desktop\Новая папка\LoadForIGR-main\AccountigConsumable\obj\Debug\UIThemes\ColorScheme.baml
+F:\Users\Andrei\Desktop\Новая папка\LoadForIGR-main\AccountigConsumable\obj\Debug\UIThemes\Elements\SimpleBorder.baml
+F:\Users\Andrei\Desktop\Новая папка\LoadForIGR-main\AccountigConsumable\obj\Debug\UIThemes\Elements\SimpleButton.baml
+F:\Users\Andrei\Desktop\Новая папка\LoadForIGR-main\AccountigConsumable\obj\Debug\UIThemes\Elements\SimpleCheckBox.baml
+F:\Users\Andrei\Desktop\Новая папка\LoadForIGR-main\AccountigConsumable\obj\Debug\UIThemes\Elements\SimpleComboBox.baml
+F:\Users\Andrei\Desktop\Новая папка\LoadForIGR-main\AccountigConsumable\obj\Debug\UIThemes\Elements\SimpleComboBoxItem.baml
+F:\Users\Andrei\Desktop\Новая папка\LoadForIGR-main\AccountigConsumable\obj\Debug\UIThemes\Elements\SimpleContextMenu.baml
+F:\Users\Andrei\Desktop\Новая папка\LoadForIGR-main\AccountigConsumable\obj\Debug\UIThemes\Elements\SimpleDataGrid.baml
+F:\Users\Andrei\Desktop\Новая папка\LoadForIGR-main\AccountigConsumable\obj\Debug\UIThemes\Elements\SimpleGroupBox.baml
+F:\Users\Andrei\Desktop\Новая папка\LoadForIGR-main\AccountigConsumable\obj\Debug\UIThemes\Elements\SimpleHyperLink.baml
+F:\Users\Andrei\Desktop\Новая папка\LoadForIGR-main\AccountigConsumable\obj\Debug\UIThemes\Elements\SimpleLabel.baml
+F:\Users\Andrei\Desktop\Новая папка\LoadForIGR-main\AccountigConsumable\obj\Debug\UIThemes\Elements\SimpleListBox.baml
+F:\Users\Andrei\Desktop\Новая папка\LoadForIGR-main\AccountigConsumable\obj\Debug\UIThemes\Elements\SimpleListBoxItem.baml
+F:\Users\Andrei\Desktop\Новая папка\LoadForIGR-main\AccountigConsumable\obj\Debug\UIThemes\Elements\SimpleListView.baml
+F:\Users\Andrei\Desktop\Новая папка\LoadForIGR-main\AccountigConsumable\obj\Debug\UIThemes\Elements\SimpleListViewItem.baml
+F:\Users\Andrei\Desktop\Новая папка\LoadForIGR-main\AccountigConsumable\obj\Debug\UIThemes\Elements\SimpleMenu.baml
+F:\Users\Andrei\Desktop\Новая папка\LoadForIGR-main\AccountigConsumable\obj\Debug\UIThemes\Elements\SimpleMenuItem.baml
+F:\Users\Andrei\Desktop\Новая папка\LoadForIGR-main\AccountigConsumable\obj\Debug\UIThemes\Elements\SimplePasswordBox.baml
+F:\Users\Andrei\Desktop\Новая папка\LoadForIGR-main\AccountigConsumable\obj\Debug\UIThemes\Elements\SimpleProgressBar.baml
+F:\Users\Andrei\Desktop\Новая папка\LoadForIGR-main\AccountigConsumable\obj\Debug\UIThemes\Elements\SimpleRadioButton.baml
+F:\Users\Andrei\Desktop\Новая папка\LoadForIGR-main\AccountigConsumable\obj\Debug\UIThemes\Elements\SimpleRichTextBox.baml
+F:\Users\Andrei\Desktop\Новая папка\LoadForIGR-main\AccountigConsumable\obj\Debug\UIThemes\Elements\SimpleScrollViewer.baml
+F:\Users\Andrei\Desktop\Новая папка\LoadForIGR-main\AccountigConsumable\obj\Debug\UIThemes\Elements\SimpleSeparator.baml
+F:\Users\Andrei\Desktop\Новая папка\LoadForIGR-main\AccountigConsumable\obj\Debug\UIThemes\Elements\SimpleSlider.baml
+F:\Users\Andrei\Desktop\Новая папка\LoadForIGR-main\AccountigConsumable\obj\Debug\UIThemes\Elements\SimpleTabControl.baml
+F:\Users\Andrei\Desktop\Новая папка\LoadForIGR-main\AccountigConsumable\obj\Debug\UIThemes\Elements\SimpleTabItem.baml
+F:\Users\Andrei\Desktop\Новая папка\LoadForIGR-main\AccountigConsumable\obj\Debug\UIThemes\Elements\SimpleTextBlock.baml
+F:\Users\Andrei\Desktop\Новая папка\LoadForIGR-main\AccountigConsumable\obj\Debug\UIThemes\Elements\SimpleTextBox.baml
+F:\Users\Andrei\Desktop\Новая папка\LoadForIGR-main\AccountigConsumable\obj\Debug\UIThemes\Elements\SimpleToggleButton.baml
+F:\Users\Andrei\Desktop\Новая папка\LoadForIGR-main\AccountigConsumable\obj\Debug\UIThemes\Elements\SimpleToolBar.baml
+F:\Users\Andrei\Desktop\Новая папка\LoadForIGR-main\AccountigConsumable\obj\Debug\UIThemes\Elements\SimpleToolTip.baml
+F:\Users\Andrei\Desktop\Новая папка\LoadForIGR-main\AccountigConsumable\obj\Debug\UIThemes\Elements\SimpleTreeView.baml
+F:\Users\Andrei\Desktop\Новая папка\LoadForIGR-main\AccountigConsumable\obj\Debug\UIThemes\Elements\SimpleTreeViewItem.baml
+F:\Users\Andrei\Desktop\Новая папка\LoadForIGR-main\AccountigConsumable\obj\Debug\UIThemes\Elements\SimpleUserControl.baml
+F:\Users\Andrei\Desktop\Новая папка\LoadForIGR-main\AccountigConsumable\obj\Debug\UIThemes\ThemeSimple.baml
+F:\Users\Andrei\Desktop\Новая папка\LoadForIGR-main\AccountigConsumable\obj\Debug\AutherizationPage.g.cs
+F:\Users\Andrei\Desktop\Новая папка\LoadForIGR-main\AccountigConsumable\obj\Debug\ClockUI.g.cs
+F:\Users\Andrei\Desktop\Новая папка\LoadForIGR-main\AccountigConsumable\obj\Debug\ClockUISimpl.g.cs
+F:\Users\Andrei\Desktop\Новая папка\LoadForIGR-main\AccountigConsumable\obj\Debug\ConsumableIssue.g.cs
+F:\Users\Andrei\Desktop\Новая папка\LoadForIGR-main\AccountigConsumable\obj\Debug\ConsumablePage.g.cs
+F:\Users\Andrei\Desktop\Новая папка\LoadForIGR-main\AccountigConsumable\obj\Debug\ConsumablePageWorkWithData.g.cs
+F:\Users\Andrei\Desktop\Новая папка\LoadForIGR-main\AccountigConsumable\obj\Debug\ConsumPageAbout.g.cs
+F:\Users\Andrei\Desktop\Новая папка\LoadForIGR-main\AccountigConsumable\obj\Debug\EditOrderInWarehouse.g.cs
+F:\Users\Andrei\Desktop\Новая папка\LoadForIGR-main\AccountigConsumable\obj\Debug\EditRoom.g.cs
+F:\Users\Andrei\Desktop\Новая папка\LoadForIGR-main\AccountigConsumable\obj\Debug\Inventarizationpage.g.cs
+F:\Users\Andrei\Desktop\Новая папка\LoadForIGR-main\AccountigConsumable\obj\Debug\InventarizationPageAbout.g.cs
+F:\Users\Andrei\Desktop\Новая папка\LoadForIGR-main\AccountigConsumable\obj\Debug\LogPage.g.cs
+F:\Users\Andrei\Desktop\Новая папка\LoadForIGR-main\AccountigConsumable\obj\Debug\LogWindow.g.cs
+F:\Users\Andrei\Desktop\Новая папка\LoadForIGR-main\AccountigConsumable\obj\Debug\MainWindow.g.cs
+F:\Users\Andrei\Desktop\Новая папка\LoadForIGR-main\AccountigConsumable\obj\Debug\NewInventPAge.g.cs
+F:\Users\Andrei\Desktop\Новая папка\LoadForIGR-main\AccountigConsumable\obj\Debug\OperationHistoryPage.g.cs
+F:\Users\Andrei\Desktop\Новая папка\LoadForIGR-main\AccountigConsumable\obj\Debug\OrderConsumPage.g.cs
+F:\Users\Andrei\Desktop\Новая папка\LoadForIGR-main\AccountigConsumable\obj\Debug\OrderInWarehouse.g.cs
+F:\Users\Andrei\Desktop\Новая папка\LoadForIGR-main\AccountigConsumable\obj\Debug\OrderMorePage.g.cs
+F:\Users\Andrei\Desktop\Новая папка\LoadForIGR-main\AccountigConsumable\obj\Debug\PasswordWindow.g.cs
+F:\Users\Andrei\Desktop\Новая папка\LoadForIGR-main\AccountigConsumable\obj\Debug\NewEquipInInvent.g.cs
+F:\Users\Andrei\Desktop\Новая папка\LoadForIGR-main\AccountigConsumable\obj\Debug\RoomPage.g.cs
+F:\Users\Andrei\Desktop\Новая папка\LoadForIGR-main\AccountigConsumable\obj\Debug\UIButtonMainPage.g.cs
+F:\Users\Andrei\Desktop\Новая папка\LoadForIGR-main\AccountigConsumable\obj\Debug\WorkersS.g.cs
+F:\Users\Andrei\Desktop\Новая папка\LoadForIGR-main\AccountigConsumable\obj\Debug\WorkWithInvent.g.cs
+F:\Users\Andrei\Desktop\Новая папка\LoadForIGR-main\AccountigConsumable\obj\Debug\WorkWithOrder.g.cs
+F:\Users\Andrei\Desktop\Новая папка\LoadForIGR-main\AccountigConsumable\obj\Debug\WorkWithWorkersData.g.cs
+F:\Users\Andrei\Desktop\Новая папка\LoadForIGR-main\AccountigConsumable\obj\Debug\App.g.cs
+F:\Users\Andrei\Desktop\Новая папка\LoadForIGR-main\AccountigConsumable\obj\Debug\AccountigConsumable_Content.g.cs
+F:\Users\Andrei\Desktop\Новая папка\LoadForIGR-main\AccountigConsumable\obj\Debug\GeneratedInternalTypeHelper.g.cs
+F:\Users\Andrei\Desktop\Новая папка\LoadForIGR-main\AccountigConsumable\obj\Debug\AccountigConsumable_MarkupCompile.cache
+F:\Users\Andrei\Desktop\Новая папка\LoadForIGR-main\AccountigConsumable\obj\Debug\AccountigConsumable_MarkupCompile.lref
+F:\Users\Andrei\Desktop\Новая папка\LoadForIGR-main\AccountigConsumable\obj\Debug\AccountigConsumable.exe
+F:\Users\Andrei\Desktop\Новая папка\LoadForIGR-main\AccountigConsumable\obj\Debug\AccountigConsumable.pdb

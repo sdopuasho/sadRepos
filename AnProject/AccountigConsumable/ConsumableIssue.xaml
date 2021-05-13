@@ -1,0 +1,48 @@
+﻿<Page x:Class="AccountigConsumable.ConsumableIssue"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:AccountigConsumable"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="ConsumableIssue" IsVisibleChanged="Page_IsVisibleChanged">
+    <Page.Resources>
+        <ResourceDictionary>
+            <ResourceDictionary.MergedDictionaries>
+                <ResourceDictionary Source="pack://application:,,,/AccountigConsumable;component/UIThemes/ThemeSimple.xaml" />
+            </ResourceDictionary.MergedDictionaries>
+        </ResourceDictionary>
+    </Page.Resources>
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="120"/>
+        </Grid.ColumnDefinitions>
+        <Border BorderBrush="#6A779E" BorderThickness="2" Margin="5">
+            <DataGrid x:Name="DGridConsumable" AutoGenerateColumns="False" IsReadOnly="True" HorizontalContentAlignment="Center">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Рабочее место" Binding="{Binding WorkPlace.NumberPlace}" Width="auto"></DataGridTextColumn>
+                <DataGridTextColumn Header="ФИО" Binding="{Binding WorkPlace.Worker.FIO}" Width="auto"></DataGridTextColumn>
+                <DataGridTextColumn Header="Должность" Binding="{Binding WorkPlace.Worker.Position.PositionName}" Width="auto"></DataGridTextColumn>
+                <DataGridTemplateColumn Width="auto">
+                    <DataGridTemplateColumn.CellTemplate>
+                        <DataTemplate>
+                            <Button Content="Подробнее" Name="BtnMore" Click="BtnMore_Click_1"></Button>
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellTemplate>
+                </DataGridTemplateColumn>
+            </DataGrid.Columns>
+        </DataGrid>
+        </Border>
+            <StackPanel Orientation="Vertical" Grid.Column="1">
+            <Border BorderThickness="0.8"  BorderBrush="#6A779E" Margin="5">
+                <StackPanel Orientation="Vertical" Margin="5" >
+                    <Button Content="Материал" Width="110" VerticalAlignment="Center" HorizontalContentAlignment="Center"  x:Name="BtnConsumable" Click="BtnConsumable_Click"/>
+                    <Button Content="Расход" Width="110" VerticalAlignment="Center" HorizontalContentAlignment="Center"  x:Name="BtnAbout" Click="BtnIssue_Click"/>
+                    <Button Content="Выданный" Width="110" VerticalAlignment="Center" HorizontalContentAlignment="Center"  x:Name="BtnIssue" Click="BtnIssue_Click_1"/>
+                </StackPanel>
+            </Border>
+        </StackPanel>
+    </Grid>
+</Page>

@@ -1,0 +1,674 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="Хранилище AccountingForConsumablesModel" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="DeliveredMaterial">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="FK_Delivery" Type="int" Nullable="false" />
+    <Property Name="FK_MaterialCard" Type="int" Nullable="false" />
+    <Property Name="DeliveryQuantity" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Delivery">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="FK_WorkPlace" Type="int" Nullable="false" />
+    <Property Name="DeliveryDate" Type="datetime" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Gender">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="GenderName" Type="nvarchar" MaxLength="7" Nullable="false" />
+    <Property Name="GenderShort" Type="nvarchar" MaxLength="3" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Inventarization">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="FK_Worker" Type="int" Nullable="false" />
+    <Property Name="FK_Warehouse" Type="int" Nullable="false" />
+    <Property Name="Date" Type="datetime" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Manufacturer">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="ManufacturerName" Type="nvarchar" MaxLength="50" Nullable="false" />
+  </EntityType>
+  <EntityType Name="MaterialCard">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="InventNumber" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="DateOfDelivery" Type="datetime" Nullable="false" />
+    <Property Name="FK_StatusOfMaterial_id" Type="int" />
+    <Property Name="FK_Material" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="MaterialGroup">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="NameOfMaterialGroup" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="NameShort" Type="nvarchar" MaxLength="20" Nullable="false" />
+  </EntityType>
+  <EntityType Name="MaterialInInventarization">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="FK_Inventarization" Type="int" Nullable="false" />
+    <Property Name="FK_Material" Type="int" Nullable="false" />
+    <Property Name="Amount" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Materials">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="MaterialName" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="FK_Manufacturer" Type="int" Nullable="false" />
+    <Property Name="FK_MaterialGroup" Type="int" Nullable="false" />
+    <Property Name="FK_Unit" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="MaterialsInDelivery">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="FK_MaterialCard" Type="int" Nullable="false" />
+    <Property Name="FK_Replenishment" Type="int" Nullable="false" />
+    <Property Name="MaterialQuantity" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="OperationHystory">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="FK_Worker" Type="int" Nullable="false" />
+    <Property Name="Operation" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="DateTimeOfOperation" Type="datetime" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Order">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="FK_Warehouse" Type="int" Nullable="false" />
+    <Property Name="FK_WorkPlace" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="OrderedMaterial">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="FK_Order" Type="int" Nullable="false" />
+    <Property Name="FK_MaterialCard" Type="int" Nullable="false" />
+    <Property Name="OrderedQuantity" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Position">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="PositionName" Type="nvarchar" MaxLength="50" Nullable="false" />
+  </EntityType>
+  <EntityType Name="ReplenishmentOfMaterials">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="FK_Warehouse" Type="int" Nullable="false" />
+    <Property Name="ContractNumber" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="DateOfAcceptanceToTheWarehouse" Type="datetime" Nullable="false" />
+    <Property Name="FK_Worker" Type="int" Nullable="false" />
+    <Property Name="Certified" Type="bit" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Room">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="FK_TypeOfRoom" Type="int" Nullable="false" />
+    <Property Name="NumberOfRoom" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="StatusOfMaterial">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="NameOfStatus" Type="nvarchar" MaxLength="50" Nullable="false" />
+  </EntityType>
+  <EntityType Name="StatusOfWorker">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="NameOfStatus" Type="nvarchar" MaxLength="50" Nullable="false" />
+  </EntityType>
+  <EntityType Name="sysdiagrams">
+    <Key>
+      <PropertyRef Name="diagram_id" />
+    </Key>
+    <Property Name="name" Type="nvarchar" MaxLength="128" Nullable="false" />
+    <Property Name="principal_id" Type="int" Nullable="false" />
+    <Property Name="diagram_id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="version" Type="int" />
+    <Property Name="definition" Type="varbinary(max)" />
+  </EntityType>
+  <EntityType Name="TypeOfRoom">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="RoomType" Type="nvarchar" MaxLength="50" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Unit">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="UnitName" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="NameShort" Type="nvarchar" MaxLength="20" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Warehouse">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="NumberOfWarehouse" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="ContactNumber" Type="nvarchar" MaxLength="50" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Worker">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="FirstName" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="LastName" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="MiddleName" Type="nvarchar" MaxLength="50" />
+    <Property Name="FK_Gender" Type="int" Nullable="false" />
+    <Property Name="PhoneNumber" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="Email" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="FK_StatusOfWorker" Type="int" Nullable="false" />
+    <Property Name="FK_Position" Type="int" Nullable="false" />
+    <Property Name="Login" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="Password" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="CheckFirstVisit" Type="bit" Nullable="false" />
+    <Property Name="Photo" Type="image" />
+  </EntityType>
+  <EntityType Name="WorkPlace">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="FK_Room" Type="int" Nullable="false" />
+    <Property Name="NumberPlace" Type="int" Nullable="false" />
+    <Property Name="FK_Worker" Type="int" Nullable="false" />
+  </EntityType>
+  <Association Name="FK_DeliveredMaterial_Delivery">
+    <End Role="Delivery" Type="Self.Delivery" Multiplicity="1" />
+    <End Role="DeliveredMaterial" Type="Self.DeliveredMaterial" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Delivery">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="DeliveredMaterial">
+        <PropertyRef Name="FK_Delivery" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_DeliveredMaterial_MaterialCard">
+    <End Role="MaterialCard" Type="Self.MaterialCard" Multiplicity="1" />
+    <End Role="DeliveredMaterial" Type="Self.DeliveredMaterial" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="MaterialCard">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="DeliveredMaterial">
+        <PropertyRef Name="FK_MaterialCard" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Delivery_WorkPlace">
+    <End Role="WorkPlace" Type="Self.WorkPlace" Multiplicity="1" />
+    <End Role="Delivery" Type="Self.Delivery" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="WorkPlace">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="Delivery">
+        <PropertyRef Name="FK_WorkPlace" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Inventarization_Warehouse">
+    <End Role="Warehouse" Type="Self.Warehouse" Multiplicity="1" />
+    <End Role="Inventarization" Type="Self.Inventarization" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Warehouse">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="Inventarization">
+        <PropertyRef Name="FK_Warehouse" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Inventarization_Worker">
+    <End Role="Worker" Type="Self.Worker" Multiplicity="1" />
+    <End Role="Inventarization" Type="Self.Inventarization" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Worker">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="Inventarization">
+        <PropertyRef Name="FK_Worker" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_MaterialCard_Materials">
+    <End Role="Materials" Type="Self.Materials" Multiplicity="1" />
+    <End Role="MaterialCard" Type="Self.MaterialCard" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Materials">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="MaterialCard">
+        <PropertyRef Name="FK_Material" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_MaterialCard_StatusOfMaterial">
+    <End Role="StatusOfMaterial" Type="Self.StatusOfMaterial" Multiplicity="0..1" />
+    <End Role="MaterialCard" Type="Self.MaterialCard" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="StatusOfMaterial">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="MaterialCard">
+        <PropertyRef Name="FK_StatusOfMaterial_id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_MaterialInInventarization_Inventarization">
+    <End Role="Inventarization" Type="Self.Inventarization" Multiplicity="1" />
+    <End Role="MaterialInInventarization" Type="Self.MaterialInInventarization" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Inventarization">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="MaterialInInventarization">
+        <PropertyRef Name="FK_Inventarization" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_MaterialInInventarization_Materials">
+    <End Role="Materials" Type="Self.Materials" Multiplicity="1" />
+    <End Role="MaterialInInventarization" Type="Self.MaterialInInventarization" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Materials">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="MaterialInInventarization">
+        <PropertyRef Name="FK_Material" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Materials_Manufacturer">
+    <End Role="Manufacturer" Type="Self.Manufacturer" Multiplicity="1" />
+    <End Role="Materials" Type="Self.Materials" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Manufacturer">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="Materials">
+        <PropertyRef Name="FK_Manufacturer" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Materials_MaterialGroup">
+    <End Role="MaterialGroup" Type="Self.MaterialGroup" Multiplicity="1" />
+    <End Role="Materials" Type="Self.Materials" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="MaterialGroup">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="Materials">
+        <PropertyRef Name="FK_MaterialGroup" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Materials_Unit">
+    <End Role="Unit" Type="Self.Unit" Multiplicity="1" />
+    <End Role="Materials" Type="Self.Materials" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Unit">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="Materials">
+        <PropertyRef Name="FK_Unit" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_MaterialsInDelivery_MaterialCard">
+    <End Role="MaterialCard" Type="Self.MaterialCard" Multiplicity="1" />
+    <End Role="MaterialsInDelivery" Type="Self.MaterialsInDelivery" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="MaterialCard">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="MaterialsInDelivery">
+        <PropertyRef Name="FK_MaterialCard" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_MaterialsInDelivery_ReplenishmentOfMaterials">
+    <End Role="ReplenishmentOfMaterials" Type="Self.ReplenishmentOfMaterials" Multiplicity="1" />
+    <End Role="MaterialsInDelivery" Type="Self.MaterialsInDelivery" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="ReplenishmentOfMaterials">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="MaterialsInDelivery">
+        <PropertyRef Name="FK_Replenishment" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_OperationHystory_Worker">
+    <End Role="Worker" Type="Self.Worker" Multiplicity="1" />
+    <End Role="OperationHystory" Type="Self.OperationHystory" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Worker">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="OperationHystory">
+        <PropertyRef Name="FK_Worker" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Order_Warehouse">
+    <End Role="Warehouse" Type="Self.Warehouse" Multiplicity="1" />
+    <End Role="Order" Type="Self.Order" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Warehouse">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="Order">
+        <PropertyRef Name="FK_Warehouse" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Order_WorkPlace">
+    <End Role="WorkPlace" Type="Self.WorkPlace" Multiplicity="1" />
+    <End Role="Order" Type="Self.Order" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="WorkPlace">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="Order">
+        <PropertyRef Name="FK_WorkPlace" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_OrderedMaterial_MaterialCard">
+    <End Role="MaterialCard" Type="Self.MaterialCard" Multiplicity="1" />
+    <End Role="OrderedMaterial" Type="Self.OrderedMaterial" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="MaterialCard">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="OrderedMaterial">
+        <PropertyRef Name="FK_MaterialCard" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_OrderedMaterial_Order">
+    <End Role="Order" Type="Self.Order" Multiplicity="1" />
+    <End Role="OrderedMaterial" Type="Self.OrderedMaterial" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Order">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="OrderedMaterial">
+        <PropertyRef Name="FK_Order" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_ReplenishmentOfMaterials_Warehouse">
+    <End Role="Warehouse" Type="Self.Warehouse" Multiplicity="1" />
+    <End Role="ReplenishmentOfMaterials" Type="Self.ReplenishmentOfMaterials" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Warehouse">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="ReplenishmentOfMaterials">
+        <PropertyRef Name="FK_Warehouse" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_ReplenishmentOfMaterials_Worker">
+    <End Role="Worker" Type="Self.Worker" Multiplicity="1" />
+    <End Role="ReplenishmentOfMaterials" Type="Self.ReplenishmentOfMaterials" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Worker">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="ReplenishmentOfMaterials">
+        <PropertyRef Name="FK_Worker" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Room_TypeOfRoom">
+    <End Role="TypeOfRoom" Type="Self.TypeOfRoom" Multiplicity="1" />
+    <End Role="Room" Type="Self.Room" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="TypeOfRoom">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="Room">
+        <PropertyRef Name="FK_TypeOfRoom" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Worker_Gender">
+    <End Role="Gender" Type="Self.Gender" Multiplicity="1" />
+    <End Role="Worker" Type="Self.Worker" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Gender">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="Worker">
+        <PropertyRef Name="FK_Gender" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Worker_Position">
+    <End Role="Position" Type="Self.Position" Multiplicity="1" />
+    <End Role="Worker" Type="Self.Worker" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Position">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="Worker">
+        <PropertyRef Name="FK_Position" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Worker_StatusOfWorker">
+    <End Role="StatusOfWorker" Type="Self.StatusOfWorker" Multiplicity="1" />
+    <End Role="Worker" Type="Self.Worker" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="StatusOfWorker">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="Worker">
+        <PropertyRef Name="FK_StatusOfWorker" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_WorkPlace_Room">
+    <End Role="Room" Type="Self.Room" Multiplicity="1" />
+    <End Role="WorkPlace" Type="Self.WorkPlace" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Room">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="WorkPlace">
+        <PropertyRef Name="FK_Room" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_WorkPlace_Worker">
+    <End Role="Worker" Type="Self.Worker" Multiplicity="1" />
+    <End Role="WorkPlace" Type="Self.WorkPlace" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Worker">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="WorkPlace">
+        <PropertyRef Name="FK_Worker" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="Хранилище AccountingForConsumablesModelContainer">
+    <EntitySet Name="DeliveredMaterial" EntityType="Self.DeliveredMaterial" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Delivery" EntityType="Self.Delivery" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Gender" EntityType="Self.Gender" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Inventarization" EntityType="Self.Inventarization" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Manufacturer" EntityType="Self.Manufacturer" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="MaterialCard" EntityType="Self.MaterialCard" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="MaterialGroup" EntityType="Self.MaterialGroup" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="MaterialInInventarization" EntityType="Self.MaterialInInventarization" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Materials" EntityType="Self.Materials" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="MaterialsInDelivery" EntityType="Self.MaterialsInDelivery" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="OperationHystory" EntityType="Self.OperationHystory" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Order" EntityType="Self.Order" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="OrderedMaterial" EntityType="Self.OrderedMaterial" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Position" EntityType="Self.Position" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="ReplenishmentOfMaterials" EntityType="Self.ReplenishmentOfMaterials" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Room" EntityType="Self.Room" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="StatusOfMaterial" EntityType="Self.StatusOfMaterial" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="StatusOfWorker" EntityType="Self.StatusOfWorker" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="sysdiagrams" EntityType="Self.sysdiagrams" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="TypeOfRoom" EntityType="Self.TypeOfRoom" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Unit" EntityType="Self.Unit" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Warehouse" EntityType="Self.Warehouse" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Worker" EntityType="Self.Worker" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="WorkPlace" EntityType="Self.WorkPlace" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK_DeliveredMaterial_Delivery" Association="Self.FK_DeliveredMaterial_Delivery">
+      <End Role="Delivery" EntitySet="Delivery" />
+      <End Role="DeliveredMaterial" EntitySet="DeliveredMaterial" />
+    </AssociationSet>
+    <AssociationSet Name="FK_DeliveredMaterial_MaterialCard" Association="Self.FK_DeliveredMaterial_MaterialCard">
+      <End Role="MaterialCard" EntitySet="MaterialCard" />
+      <End Role="DeliveredMaterial" EntitySet="DeliveredMaterial" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Delivery_WorkPlace" Association="Self.FK_Delivery_WorkPlace">
+      <End Role="WorkPlace" EntitySet="WorkPlace" />
+      <End Role="Delivery" EntitySet="Delivery" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Inventarization_Warehouse" Association="Self.FK_Inventarization_Warehouse">
+      <End Role="Warehouse" EntitySet="Warehouse" />
+      <End Role="Inventarization" EntitySet="Inventarization" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Inventarization_Worker" Association="Self.FK_Inventarization_Worker">
+      <End Role="Worker" EntitySet="Worker" />
+      <End Role="Inventarization" EntitySet="Inventarization" />
+    </AssociationSet>
+    <AssociationSet Name="FK_MaterialCard_Materials" Association="Self.FK_MaterialCard_Materials">
+      <End Role="Materials" EntitySet="Materials" />
+      <End Role="MaterialCard" EntitySet="MaterialCard" />
+    </AssociationSet>
+    <AssociationSet Name="FK_MaterialCard_StatusOfMaterial" Association="Self.FK_MaterialCard_StatusOfMaterial">
+      <End Role="StatusOfMaterial" EntitySet="StatusOfMaterial" />
+      <End Role="MaterialCard" EntitySet="MaterialCard" />
+    </AssociationSet>
+    <AssociationSet Name="FK_MaterialInInventarization_Inventarization" Association="Self.FK_MaterialInInventarization_Inventarization">
+      <End Role="Inventarization" EntitySet="Inventarization" />
+      <End Role="MaterialInInventarization" EntitySet="MaterialInInventarization" />
+    </AssociationSet>
+    <AssociationSet Name="FK_MaterialInInventarization_Materials" Association="Self.FK_MaterialInInventarization_Materials">
+      <End Role="Materials" EntitySet="Materials" />
+      <End Role="MaterialInInventarization" EntitySet="MaterialInInventarization" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Materials_Manufacturer" Association="Self.FK_Materials_Manufacturer">
+      <End Role="Manufacturer" EntitySet="Manufacturer" />
+      <End Role="Materials" EntitySet="Materials" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Materials_MaterialGroup" Association="Self.FK_Materials_MaterialGroup">
+      <End Role="MaterialGroup" EntitySet="MaterialGroup" />
+      <End Role="Materials" EntitySet="Materials" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Materials_Unit" Association="Self.FK_Materials_Unit">
+      <End Role="Unit" EntitySet="Unit" />
+      <End Role="Materials" EntitySet="Materials" />
+    </AssociationSet>
+    <AssociationSet Name="FK_MaterialsInDelivery_MaterialCard" Association="Self.FK_MaterialsInDelivery_MaterialCard">
+      <End Role="MaterialCard" EntitySet="MaterialCard" />
+      <End Role="MaterialsInDelivery" EntitySet="MaterialsInDelivery" />
+    </AssociationSet>
+    <AssociationSet Name="FK_MaterialsInDelivery_ReplenishmentOfMaterials" Association="Self.FK_MaterialsInDelivery_ReplenishmentOfMaterials">
+      <End Role="ReplenishmentOfMaterials" EntitySet="ReplenishmentOfMaterials" />
+      <End Role="MaterialsInDelivery" EntitySet="MaterialsInDelivery" />
+    </AssociationSet>
+    <AssociationSet Name="FK_OperationHystory_Worker" Association="Self.FK_OperationHystory_Worker">
+      <End Role="Worker" EntitySet="Worker" />
+      <End Role="OperationHystory" EntitySet="OperationHystory" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Order_Warehouse" Association="Self.FK_Order_Warehouse">
+      <End Role="Warehouse" EntitySet="Warehouse" />
+      <End Role="Order" EntitySet="Order" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Order_WorkPlace" Association="Self.FK_Order_WorkPlace">
+      <End Role="WorkPlace" EntitySet="WorkPlace" />
+      <End Role="Order" EntitySet="Order" />
+    </AssociationSet>
+    <AssociationSet Name="FK_OrderedMaterial_MaterialCard" Association="Self.FK_OrderedMaterial_MaterialCard">
+      <End Role="MaterialCard" EntitySet="MaterialCard" />
+      <End Role="OrderedMaterial" EntitySet="OrderedMaterial" />
+    </AssociationSet>
+    <AssociationSet Name="FK_OrderedMaterial_Order" Association="Self.FK_OrderedMaterial_Order">
+      <End Role="Order" EntitySet="Order" />
+      <End Role="OrderedMaterial" EntitySet="OrderedMaterial" />
+    </AssociationSet>
+    <AssociationSet Name="FK_ReplenishmentOfMaterials_Warehouse" Association="Self.FK_ReplenishmentOfMaterials_Warehouse">
+      <End Role="Warehouse" EntitySet="Warehouse" />
+      <End Role="ReplenishmentOfMaterials" EntitySet="ReplenishmentOfMaterials" />
+    </AssociationSet>
+    <AssociationSet Name="FK_ReplenishmentOfMaterials_Worker" Association="Self.FK_ReplenishmentOfMaterials_Worker">
+      <End Role="Worker" EntitySet="Worker" />
+      <End Role="ReplenishmentOfMaterials" EntitySet="ReplenishmentOfMaterials" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Room_TypeOfRoom" Association="Self.FK_Room_TypeOfRoom">
+      <End Role="TypeOfRoom" EntitySet="TypeOfRoom" />
+      <End Role="Room" EntitySet="Room" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Worker_Gender" Association="Self.FK_Worker_Gender">
+      <End Role="Gender" EntitySet="Gender" />
+      <End Role="Worker" EntitySet="Worker" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Worker_Position" Association="Self.FK_Worker_Position">
+      <End Role="Position" EntitySet="Position" />
+      <End Role="Worker" EntitySet="Worker" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Worker_StatusOfWorker" Association="Self.FK_Worker_StatusOfWorker">
+      <End Role="StatusOfWorker" EntitySet="StatusOfWorker" />
+      <End Role="Worker" EntitySet="Worker" />
+    </AssociationSet>
+    <AssociationSet Name="FK_WorkPlace_Room" Association="Self.FK_WorkPlace_Room">
+      <End Role="Room" EntitySet="Room" />
+      <End Role="WorkPlace" EntitySet="WorkPlace" />
+    </AssociationSet>
+    <AssociationSet Name="FK_WorkPlace_Worker" Association="Self.FK_WorkPlace_Worker">
+      <End Role="Worker" EntitySet="Worker" />
+      <End Role="WorkPlace" EntitySet="WorkPlace" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>
